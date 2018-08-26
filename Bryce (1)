@@ -4,97 +4,97 @@
 translate russiantl bryce1_af6347bc:
 
     # m "Once again, I found myself within the police department, which seemed oddly quiet for this time of day."
-    m ""
+    m "И снова я оказался в полицейском участке, хотя на этот раз тут было намного тише."
 
 # game/bryce1.rpy:33
 translate russiantl bryce1_035da1b9:
 
     # m "It didn't take me long to spot Bryce in his office."
-    m ""
+    m "Я довольно быстро нашёл Брайса, он оказался в своём офисе."
 
 # game/bryce1.rpy:37
 translate russiantl bryce1_89257397:
 
     # Br "Hey [player_name], what's up?"
-    Br ""
+    Br "Хей, [player_name], как дела?"
 
 # game/bryce1.rpy:38
 translate russiantl bryce1_0ccc8efa:
 
     # c "Nothing much, but you told me to contact you if I could remember anything that might help with the investigation."
-    c ""
+    c "Всё хорошо. Ты сказал мне связаться с тобой, если я вспомню что-нибудь, что может помочь расследованию."
 
 # game/bryce1.rpy:39
 translate russiantl bryce1_edcc1faa:
 
     # Br "That's right. What do you have for me?"
-    Br ""
+    Br "Верно. И что ты вспомнил?"
 
 # game/bryce1.rpy:40
 translate russiantl bryce1_df11dec0:
 
     # c "I'm not sure if it's worth mentioning, but I have known Reza for a couple of years, so I know some things about his personality."
-    c ""
+    c "Не знаю, важно ли это, но я знал Резу несколько лет, так что я знаю что-то о его характере."
 
 # game/bryce1.rpy:44
 translate russiantl bryce1_586e9ee6:
 
     # Br "Mhm, I see. Well, that's actually more helpful than you might think. Mannerisms, habits - all kinds of things would be useful to add to his profile and to get a better idea of him."
-    Br ""
+    Br "Ага, ясно. Ну, это на самом деле может помочь. Манеры, привычки - всё это можно добавить в его дело и лучше понять его мотивы."
 
 # game/bryce1.rpy:48
 translate russiantl bryce1_d22825cb:
 
     # Br "You know, I'm just about done here for the day, but if you want to discuss it over a beer or something, I'd be more than happy."
-    Br ""
+    Br "Знаешь, я почти закончил работу в офисе на сегодня, но если ты хочешь обсудить это всё за кружечкой пива или ещё чего, то я буду более чем рад."
 
 # game/bryce1.rpy:54
 translate russiantl bryce1_984c5d7f:
 
     # Br "That's fine, you don't have to."
-    Br ""
+    Br "Не переживай, это необязательно."
 
 # game/bryce1.rpy:56
 translate russiantl bryce1_08d3dd2a:
 
     # Br "Or maybe we'll find something you'll like."
-    Br ""
+    Br "А может мы найдёт что-то, что и тебе понравится."
 
 # game/bryce1.rpy:63
 translate russiantl bryce1_b28883c8:
 
     # c "Actually, I find it worrisome that the chief of police prefers to get drunk instead of hearing important information about a case."
-    c ""
+    c "На самом деле, мне кажется, что если шериф полиции предпочиает напиться вместо того, чтобы послушать важную информацию о деле, то об этом стоит беспокоиться."
 
 # game/bryce1.rpy:65
 translate russiantl bryce1_fe1efab4:
 
     # Br "You're quite right. In my own free time I do prefer to get drunk instead of dealing with work. If you find that \"worrisome\", maybe you should try out my job sometime."
-    Br ""
+    Br "Не могу сказать, что ты неправ. В свободное время я предпочитаю промочить горло разгребанию работы. Если ты думаешь, что \"об этом стоит беспокоиться\", то тебе, наверно, стоит попробовать поработать тут вместо меня хоть денёк."
 
 # game/bryce1.rpy:70
 translate russiantl bryce1_2f0ba0b7:
 
     # Br "Well, are you coming or not?"
-    Br ""
+    Br "Так что, ты идёшь, или нет?"
 
 # game/bryce1.rpy:79
 translate russiantl bryce1_db7471f7:
 
     # Br "In that case, you can say whatever it is you have to say to someone else tomorrow, alright?"
-    Br ""
+    Br "В таком случае, можешь сказать то, что ты там хотел, кому-то другому и завтра, ладно?"
 
 # game/bryce1.rpy:80
 translate russiantl bryce1_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Ладно."
 
 # game/bryce1.rpy:82
 translate russiantl bryce1_ac0af087:
 
     # Br "Now, please excuse me before I miss happy hour."
-    Br ""
+    Br "А теперь попрошу меня извинить, иначе я пропущу час бесплатной второй кружки."
 
 # game/bryce1.rpy:87
 translate russiantl bryce1_76b2fe88:
@@ -106,43 +106,43 @@ translate russiantl bryce1_76b2fe88:
 translate russiantl bryce1_dd027f19:
 
     # n "My meeting with Bryce ended before it even had a chance to pick up."
-    n ""
+    n "Моя встреча с Брайсом окончилась, не успев даже начаться."
 
 # game/bryce1.rpy:91
 translate russiantl bryce1_2bc32794:
 
     # n "How could that be?"
-    n ""
+    n "Как так получилось?"
 
 # game/bryce1.rpy:92
 translate russiantl bryce1_d0bb4d07:
 
     # n "Was it my mistake?"
-    n ""
+    n "Я в чём-то ошибся?"
 
 # game/bryce1.rpy:93
 translate russiantl bryce1_fea37bc6:
 
     # n "Or maybe our personalities just weren't compatible."
-    n ""
+    n "А может у нас просто несовместимые характеры."
 
 # game/bryce1.rpy:94
 translate russiantl bryce1_bc12bd7e:
 
     # n "Of course, not having a drunkard as a friend wasn't too bad of an outcome."
-    n ""
+    n "С другой стороны, не подружиться с местным алкашом - не самый худший исход."
 
 # game/bryce1.rpy:116
 translate russiantl _call_syscheck_37_0f40089b:
 
     # s "You rejected Bryce's invitation!"
-    s ""
+    s "Вы отклонили приглашение Брайса!"
 
 # game/bryce1.rpy:120
 translate russiantl _call_syscheck_37_d456a7a0:
 
     # s "You rejected Bryce's invitation. Whatever."
-    s ""
+    s "Вы отклонили приглашение Брайса. Да и пофиг."
 
 # game/bryce1.rpy:124
 translate russiantl _call_syscheck_37_8b86f8ee:
