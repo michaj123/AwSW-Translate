@@ -1,0 +1,697 @@
+# TODO: Translation updated at 2017-05-02 20:02
+
+translate russiantl strings:
+
+    # 00action_file.rpy:26
+    old "{#weekday}Monday"
+    new "{#будни}Понедельник"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Tuesday"
+    new "{#будни}Вторник"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Wednesday"
+    new "{#будни}Среда"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Thursday"
+    new "{#будни}Четверг"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Friday"
+    new "{#будни}Пятница"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Saturday"
+    new "{#будни}Суббота"
+
+    # 00action_file.rpy:26
+    old "{#weekday}Sunday"
+    new "{#будни}Воскресенье"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Mon"
+    new "{#будни_коротко}Пн"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Tue"
+    new "{#будни_коротко}Вт"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Wed"
+    new "{#будни_коротко}Ср"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Thu"
+    new "{#будни_коротко}Чт"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Fri"
+    new "{#будни_коротко}Пт"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Sat"
+    new "{#будни_коротко}Сб"
+
+    # 00action_file.rpy:37
+    old "{#weekday_short}Sun"
+    new "{#будни_коротко}Вс"
+
+    # 00action_file.rpy:47
+    old "{#month}January"
+    new "{#месяц}Январь"
+
+    # 00action_file.rpy:47
+    old "{#month}February"
+    new "{#месяц}Февраль"
+
+    # 00action_file.rpy:47
+    old "{#month}March"
+    new "{#месяц}Март"
+
+    # 00action_file.rpy:47
+    old "{#month}April"
+    new "{#месяц}Апрель"
+
+    # 00action_file.rpy:47
+    old "{#month}May"
+    new "{#месяц}Май"
+
+    # 00action_file.rpy:47
+    old "{#month}June"
+    new "{#месяц}Июнь"
+
+    # 00action_file.rpy:47
+    old "{#month}July"
+    new "{#месяц}Июль"
+
+    # 00action_file.rpy:47
+    old "{#month}August"
+    new "{#месяц}Август"
+
+    # 00action_file.rpy:47
+    old "{#month}September"
+    new "{#месяц}Сентябрь"
+
+    # 00action_file.rpy:47
+    old "{#month}October"
+    new "{#месяц}Октябрь"
+
+    # 00action_file.rpy:47
+    old "{#month}November"
+    new "{#месяц}Ноябрь"
+
+    # 00action_file.rpy:47
+    old "{#month}December"
+    new "{#месяц}Декабрь"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Jan"
+    new "{#месяц_коротко}Янв"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Feb"
+    new "{#месяц_коротко}Фев"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Mar"
+    new "{#месяц_коротко}Мрт"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Apr"
+    new "{#месяц_коротко}Апр"
+
+    # 00action_file.rpy:63
+    old "{#month_short}May"
+    new "{#месяц_коротко}Май"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Jun"
+    new "{#месяц_коротко}Июн"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Jul"
+    new "{#месяц_коротко}Июл"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Aug"
+    new "{#месяц_коротко}Авг"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Sep"
+    new "{#месяц_коротко}Сен"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Oct"
+    new "{#месяц_коротко}Окт"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Nov"
+    new "{#месяц_коротко}Нбр"
+
+    # 00action_file.rpy:63
+    old "{#month_short}Dec"
+    new "{#месяц_коротко}Дек"
+
+    # 00action_file.rpy:235
+    old "%b %d, %H:%M"
+    new "%b %d, %H:%M"
+
+    # 00action_file.rpy:569
+    old "Page {}"
+    new "Страница {}"
+
+    # 00action_file.rpy:569
+    old "Automatic saves"
+    new "Автоматическое сохранение"
+
+    # 00action_file.rpy:569
+    old "Quick saves"
+    new "Быстрое сохранение"
+
+    # 00action_file.rpy:820
+    old "Quick save complete."
+    new "Быстрое сохранение завершено."
+
+    # 00gui.rpy:227
+    old "Are you sure?"
+    new "Вы уверенны?"
+
+    # 00gui.rpy:228
+    old "Are you sure you want to delete this save?"
+    new "Вы уверены, что хотите удалить это сохранение?"
+
+    # 00gui.rpy:229
+    old "Are you sure you want to overwrite your save?"
+    new "Вы уверены, что хотите перезаписать свое сохранение?"
+
+    # 00gui.rpy:230
+    old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Загрузка потеряет несохраненный прогресс.\nВы уверены, что хотите это сделать?"
+
+    # 00gui.rpy:231
+    old "Are you sure you want to quit?"
+    new "Вы уверены, что хотите выйти?"
+
+    # 00gui.rpy:232
+    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Вы уверены, что хотите вернуться в главное меню?\nВесь несохраненный прогресс будет утерян."
+
+    # 00gui.rpy:233
+    old "Are you sure you want to end the replay?"
+    new Вы уверены, что хотите завершить повтор?"
+
+    # 00gui.rpy:234
+    old "Are you sure you want to begin skipping?"
+    new "Вы уверены, что хотите начать пропуск?"
+
+    # 00gui.rpy:235
+    old "Are you sure you want to skip to the next choice?"
+    new "Вы уверены, что хотите сделать пропуск до следующего варианта?"
+
+    # 00gui.rpy:236
+    old "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Вы уверены, что хотите пропустить ранее невиданные диалоги до следующего выбора?"
+
+    # 00keymap.rpy:252
+    old "Saved screenshot as %s."
+    new "Снимок экрана сохранен как %s."
+
+    # 00library.rpy:142
+    old "Self-voicing disabled."
+    new "Само-озвучивание отключено."
+
+    # 00library.rpy:143
+    old "Clipboard voicing enabled. "
+    new "Озвучивание с помощью буфера включена. "
+
+    # 00library.rpy:144
+    old "Self-voicing enabled. "
+    new "Само-озвучивание включено. "
+
+    # 00library.rpy:179
+    old "Skip Mode"
+    new "Режим пропуска"
+
+    # 00library.rpy:262
+    old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new "Эта программа содержит бесплатное программное обеспечение по ряду лицензий, включая лицензию MIT и лицензию GNU Lesser General Public License. Полный список программного обеспечения, включая ссылки на полный исходный код, можно найти здесь {a=https://www.renpy.org/l/license}here{/a}."
+
+    # 00preferences.rpy:422
+    old "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Озвучивание с помощью буфера включена. Нажмите «shift + C», чтобы отключить."
+
+    # 00preferences.rpy:424
+    old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "Озвучивается \"[renpy.display.tts.last]\". Нажмите 'alt + shift + V', чтобы отключить"
+
+    # 00preferences.rpy:426
+    old "Self-voicing enabled. Press 'v' to disable."
+    new "Само-озвучивание включено. Нажмите 'v', чтобы отключить."
+
+    # _compat\gamemenu.rpym:355
+    old "Previous"
+    new "Предыдущий"
+
+    # _compat\gamemenu.rpym:362
+    old "Next"
+    new "Cледующий"
+
+    # _compat\preferences.rpym:428
+    old "Joystick Mapping"
+    new "Отображение Джойстика"
+
+    # _developer\developer.rpym:38
+    old "Developer Menu"
+    new "Меню Разработчика"
+
+    # _developer\developer.rpym:43
+    old "Reload Game (Shift+R)"
+    new "Перезагрузка Игры (Shift+R)"
+
+    # _developer\developer.rpym:45
+    old "Console (Shift+O)"
+    new "Консоль (Shift+O)"
+
+    # _developer\developer.rpym:47
+    old "Variable Viewer"
+    new "Просмотр Переменных"
+
+    # _developer\developer.rpym:49
+    old "Theme Test"
+    new "Тематический тест"
+
+    # _developer\developer.rpym:51
+    old "Image Location Picker"
+    new "Выбор Местоположения Изображения"
+
+    # _developer\developer.rpym:53
+    old "Filename List"
+    new "Список Файлов"
+
+    # _developer\developer.rpym:57
+    old "Show Image Load Log"
+    new "Показать Лог Загрузки Изображения"
+
+    # _developer\developer.rpym:60
+    old "Hide Image Load Log"
+    new "Скрыть Лог Загрузки Изображения"
+
+    # _developer\developer.rpym:66
+    old "Return"
+    new "Вернуть"
+
+    # _developer\developer.rpym:95
+    old "Nothing to inspect."
+    new "Ничего не нужно проверять."
+
+    # _developer\developer.rpym:217
+    old "Return to the developer menu"
+    new "Вернуться в меню разработчика"
+
+    # _developer\developer.rpym:373
+    old "Rectangle: %r"
+    new "Прямоугольник: %r"
+
+    # _developer\developer.rpym:378
+    old "Mouse position: %r"
+    new "Позиция мыши: %r"
+
+    # _developer\developer.rpym:383
+    old "Right-click or escape to quit."
+    new "Щелкните правой кнопкой мыши или выйдите, чтобы выйти."
+
+    # _developer\developer.rpym:412
+    old "Rectangle copied to clipboard."
+    new "Прямоугольник скопирован в буфер обмена."
+
+    # _developer\developer.rpym:415
+    old "Position copied to clipboard."
+    new "Позиция скопирована в буфер обмена."
+
+    # _developer\developer.rpym:524
+    old "? "
+    new "? "
+
+    # _developer\developer.rpym:527
+    old "? "
+    new "? "
+
+    # _developer\developer.rpym:532
+    old "\n{color=#cfc}? predicted image (good){/color}\n{color=#fcc}? unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new "\n{color=#cfc}? предсказанное изображение (хорошее){/color}\n{color=#fcc}? непредсказуемое изображение (плохое){/color}\n{color=#fff} Перетащите, чтобы переместить.{/цвет}"
+
+    # _developer\inspector.rpym:38
+    old "Displayable Inspector"
+    new "Отображаемый Обнаружитель"
+
+    # _developer\inspector.rpym:61
+    old "Size"
+    new "Размер"
+
+    # _developer\inspector.rpym:65
+    old "Style"
+    new "Стиль"
+
+    # _developer\inspector.rpym:71
+    old "Location"
+    new "Место нахождения"
+
+    # _developer\inspector.rpym:122
+    old "Inspecting Styles of [displayable_name!q]"
+    new "Проверка Стилей [displayable_name!q]"
+
+    # _developer\inspector.rpym:139
+    old "displayable:"
+    new "отображаемый:"
+
+    # _developer\inspector.rpym:145
+    old "        (no properties affect the displayable)"
+    new "        (нет свойств, затрагивающих отображение)"
+
+    # _developer\inspector.rpym:147
+    old "        (default properties omitted)"
+    new "        (свойства по умолчанию опущены)"
+
+    # _developer\inspector.rpym:185
+    old "<repr() failed>"
+    new "<repr() failed>"
+
+    # _layout\classic_load_save.rpym:170
+    old "a"
+    new "a"
+
+    # _layout\classic_load_save.rpym:179
+    old "q"
+    new "q"
+
+    # 00iap.rpy:217
+    old "Contacting App Store\nPlease Wait..."
+    new "Подключение к App Store\nПожалуйста Подождите..."
+
+    # 00updater.rpy:373
+    old "The Ren'Py Updater is not supported on mobile devices."
+    new "Ren'Py Updater не поддерживается на мобильных устройствах."
+
+    # 00updater.rpy:492
+    old "An error is being simulated."
+    new "Ошибка была симулирована."
+
+    # 00updater.rpy:668
+    old "Either this project does not support updating, or the update status file was deleted."
+    new "Либо этот проект не поддерживает обновление, либо файл статуса обновления был удален."
+
+    # 00updater.rpy:682
+    old "This account does not have permission to perform an update."
+    new "У этой учетной записи нет разрешения на выполнение обновления."
+
+    # 00updater.rpy:685
+    old "This account does not have permission to write the update log."
+    new "У этой учетной записи нет разрешения на запись журнала обновлений."
+
+    # 00updater.rpy:710
+    old "Could not verify update signature."
+    new "Не удалось проверить подпись обновления."
+
+    # 00updater.rpy:981
+    old "The update file was not downloaded."
+    new "Файл обновления не был загружен."
+
+    # 00updater.rpy:999
+    old "The update file does not have the correct digest - it may have been corrupted."
+    new "Файл обновления не имеет корректной структуры - он может быть поврежден."
+
+    # 00updater.rpy:1055
+    old "While unpacking {}, unknown type {}."
+    new "При распаковке {}, неизвестный тип {}."
+
+    # 00updater.rpy:1399
+    old "Updater"
+    new "Обновления"
+
+    # 00updater.rpy:1406
+    old "An error has occured:"
+    new "Возникла ошибка:"
+
+    # 00updater.rpy:1408
+    old "Checking for updates."
+    new "Проверка обновлений:"
+
+    # 00updater.rpy:1410
+    old "This program is up to date."
+    new "Эта программа актуальна."
+
+    # 00updater.rpy:1412
+    old "[u.version] is available. Do you want to install it?"
+    new "Доступна [u.version]. Вы хотите установить ее?"
+
+    # 00updater.rpy:1414
+    old "Preparing to download the updates."
+    new "Подготовка к загрузке обновлений."
+
+    # 00updater.rpy:1416
+    old "Downloading the updates."
+    new "Загрузка обновлений."
+
+    # 00updater.rpy:1418
+    old "Unpacking the updates."
+    new "Распаковка обновлений."
+
+    # 00updater.rpy:1420
+    old "Finishing up."
+    new "Завершение."
+
+    # 00updater.rpy:1422
+    old "The updates have been installed. The program will restart."
+    new "Обновления были установлены. Программа перезапустится."
+
+    # 00updater.rpy:1424
+    old "The updates have been installed."
+    new "Обновления были установлены."
+
+    # 00updater.rpy:1426
+    old "The updates were cancelled."
+    new "Обновления были отменены."
+
+    # 00updater.rpy:1441
+    old "Proceed"
+    new "Продолжить"
+
+    # 00updater.rpy:1444
+    old "Cancel"
+    new "Отменить"
+
+    # 00gallery.rpy:563
+    old "Image [index] of [count] locked."
+    new "Изображение [index] из [count] заблокировано."
+
+    # 00gallery.rpy:583
+    old "prev"
+    new "предыдущий"
+
+    # 00gallery.rpy:584
+    old "next"
+    new "следующий"
+
+    # 00gallery.rpy:585
+    old "slideshow"
+    new "слайд-шоу"
+
+    # 00gallery.rpy:586
+    old "return"
+    new "назад"
+
+    # 00gltest.rpy:64
+    old "Graphics Acceleration"
+    new "Графическое Ускорение"
+
+    # 00gltest.rpy:70
+    old "Automatically Choose"
+    new "Автоматический Выбор"
+
+    # 00gltest.rpy:75
+    old "Force Angle/DirectX Renderer"
+    new "Использовать Angle/DirectX Renderer"
+
+    # 00gltest.rpy:79
+    old "Force OpenGL Renderer"
+    new "Использовать OpenGL Renderer"
+
+    # 00gltest.rpy:83
+    old "Force Software Renderer"
+    new "Использовать программное обеспечение Renderer"
+
+    # 00gltest.rpy:89
+    old "Gamepad"
+    new "Геймпад"
+
+    # 00gltest.rpy:93
+    old "Enable"
+    new "Включить"
+
+    # 00gltest.rpy:97
+    old "Disable"
+    new "Отключить"
+
+    # 00gltest.rpy:103
+    old "Calibrate"
+    new "Калибровать"
+
+    # 00gltest.rpy:109
+    old "Changes will take effect the next time this program is run."
+    new "Изменения вступят в силу после перезагрузки программы."
+
+    # 00gltest.rpy:114
+    old "Quit"
+    new "Выйти"
+
+    # 00gltest.rpy:141
+    old "Performance Warning"
+    new "Предупреждение о Производительности"
+
+    # 00gltest.rpy:146
+    old "This computer is using software rendering."
+    new "Этот компьютер использует программный рендеринг."
+
+    # 00gltest.rpy:148
+    old "This computer is not using shaders."
+    new "Этот компьютер не использует шейдеры."
+
+    # 00gltest.rpy:150
+    old "This computer is displaying graphics slowly."
+    new "Этот компьютер медленно отображает графику."
+
+    # 00gltest.rpy:152
+    old "This computer has a problem displaying graphics: [problem]."
+    new "У этого компьютера есть проблема с отображением графики: [problem]"
+
+    # 00gltest.rpy:157
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "Эти графические драйверы могут устареть или работать неправильно. Это может привести к медленному или неправильному отображению графики. Обновление DirectX может решить эту проблему."
+
+    # 00gltest.rpy:159
+    old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "Эти графические драйверы могут устареть или работать неправильно. Это может привести к медленному или неправильному отображению графики."
+
+    # 00gltest.rpy:164
+    old "Update DirectX"
+    new "Обновить DirectX"
+
+    # 00gltest.rpy:170
+    old "Continue, Show this warning again"
+    new "Продолжить, Показывать это предупреждение снова"
+
+    # 00gltest.rpy:174
+    old "Continue, Don't show warning again"
+    new "Продолжить, Не показывать предупреждение снова"
+
+    # 00gltest.rpy:192
+    old "Updating DirectX."
+    new "Обновление DirectX."
+
+    # 00gltest.rpy:196
+    old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "Была запущена веб-настройка DirectX. В панели задач он может быть сведен к минимуму. Следуйте инструкциям по установке DirectX."
+
+    # 00gltest.rpy:200
+    old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "{b}Note:{/b} Программа установки Microsoft DirectX по умолчанию установит панель инструментов Bing. Если вы не хотите эту панель инструментов, снимите соответствующий флажок"
+
+    # 00gltest.rpy:204
+    old "When setup finishes, please click below to restart this program."
+    new "Когда настройка завершиться, пожалуйста нажмите ниже, чтобы перезапустить эту программу."
+
+    # 00gltest.rpy:206
+    old "Restart"
+    new "Перезапуск"
+
+    # 00gamepad.rpy:32
+    old "Select Gamepad to Calibrate"
+    new "Выберите Геймпад для Калибровки"
+
+    # 00gamepad.rpy:35
+    old "No Gamepads Available"
+    new "Нет Доступных Геймпадов"
+
+    # 00gamepad.rpy:54
+    old "Calibrating [name] ([i]/[total])"
+    new "Калибровка [name] ([i]/[total])"
+
+    # 00gamepad.rpy:58
+    old "Press or move the [control!r] [kind]."
+    new "Нажмите или переместите [control!r] [kind]."
+
+    # 00gamepad.rpy:66
+    old "Skip (A)"
+    new "Пропустить (А)"
+
+    # 00gamepad.rpy:69
+    old "Back (B)"
+    new "Назад (В)"
+
+    # _errorhandling.rpym:503
+    old "Open Traceback"
+    new "Открыть Traceback"
+
+    # _errorhandling.rpym:505
+    old "Opens the traceback.txt file in a text editor."
+    new "Открываю файл traceback.txt в текстовом редакторе."
+
+    # _errorhandling.rpym:507
+    old "Copy to Clipboard"
+    new "Скопировать в Буфер Обмена"
+
+    # _errorhandling.rpym:509
+    old "Copies the traceback.txt file to the clipboard."
+    new "Копирую файл traceback.txt в буфер обмена."
+
+    # _errorhandling.rpym:527
+    old "An exception has occurred."
+    new "Произошло исключение."
+
+    # _errorhandling.rpym:546
+    old "Rollback"
+    new "Откат"
+
+    # _errorhandling.rpym:548
+    old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "Попытка возврата к предыдущему времени, позволяющая сохранить или выбрать другой вариант."
+
+    # _errorhandling.rpym:551
+    old "Ignore"
+    new "Игнорировать"
+
+    # _errorhandling.rpym:553
+    old "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "Игнорирую исключение, позволяя продолжить. Это часто приводит к дополнительным ошибкам."
+
+    # _errorhandling.rpym:556
+    old "Reload"
+    new "Перезагрузить"
+
+    # _errorhandling.rpym:558
+    old "Reloads the game from disk, saving and restoring game state if possible."
+    new "Перезагружаю игру с диска, сохраняя и восстанавливая состояние игры, если это возможно."
+
+    # _errorhandling.rpym:568
+    old "Quits the game."
+    new "Выход из игры."
+
+    # _errorhandling.rpym:590
+    old "Parsing the script failed."
+    new "Парсинг скрипта прошел неудачно."
+
+    # _errorhandling.rpym:614
+    old "Open Parse Errors"
+    new "Открытые Ошибки Парсера"
+
+    # _errorhandling.rpym:616
+    old "Opens the errors.txt file in a text editor."
+    new "Открываю файл errors.txt в текстовом редакторе."
+
+    # _errorhandling.rpym:620
+    old "Copies the errors.txt file to the clipboard."
+    new "Копирую файл errors.txt в буфер обмена."
+
+
