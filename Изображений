@@ -112,7 +112,7 @@ translate russiantl strings:
 
     # images.rpy:1169
     old "Grey"
-    new "Серый"
+    new "Грей"
 
     # images.rpy:1170
     old "Leymas"
