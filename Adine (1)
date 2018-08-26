@@ -4,7 +4,7 @@
 translate russiantl adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "Я"
+    m "Я вспомнил"
 
 # game/adine1.rpy:32
 translate russiantl adine1_d60c0822:
