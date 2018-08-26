@@ -693,5 +693,3 @@ translate russiantl strings:
     # _errorhandling.rpym:620
     old "Copies the errors.txt file to the clipboard."
     new "Копирую файл errors.txt в буфер обмена."
-
-
