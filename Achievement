@@ -52,7 +52,7 @@ translate russiantl strings:
 
     # achievements.rpy:157
     old "{b}Patient{/b}\nWait for Remy until you get bored."
-    new "{b}Терпиливый{/b}\nПодождfnm Реми, пока не надоест."
+    new "{b}Терпиливый{/b}\nПодождать Реми, пока не надоест."
 
     # achievements.rpy:168
     old "{b}General Knowledgist{/b}\nAnswer Anna's questions correctly."
@@ -72,59 +72,59 @@ translate russiantl strings:
 
     # achievements.rpy:226
     old "{b}Interrogator 1{/b}\nInterrogate Damion."
-    new "{b}Допрашивающий 1{/b}\nОпросить Дэмиона."
+    new "{b}Допрашивающий 1{/b}\nДопросить Дэмиона."
 
     # achievements.rpy:237
     old "{b}Finders, Keepers{/b}\nAcquire the bloody bandage."
-    new ""
+    new "{b}Искатели, Хранители{/b}\nОвладеть окровавленной повязкой."
 
     # achievements.rpy:248
     old "{b}Archeologist{/b}\nFind a handful of dirt."
-    new ""
+    new "{b}Археолог{/b}\nНайти горсть грязи."
 
     # achievements.rpy:259
     old "{b}Landscaper{/b}\nAppreciate the landscape."
-    new ""
+    new "{b}Пейзажист{/b}\nОценить пейзаж."
 
     # achievements.rpy:270
     old "{b}Orb Finder{/b}\nFind a mysterious orb."
-    new ""
+    new "{b}Сфероискатель{/b}\nНайти мистическую сферу."
 
     # achievements.rpy:285
     old "{b}Window Shopper{/b}\nLook at everything the store has to offer."
-    new ""
+    new "{b}На Витрине{/b}\nПосмотреть все, что может предложить магазин."
 
     # achievements.rpy:296
     old "{b}Investigator 2{/b}\nDo well on the second investigation."
-    new ""
+    new "{b}Следователь 2{/b}\nПреуспеть на втором расследовании."
 
     # achievements.rpy:307
     old "{b}Memories{/b}\nLook at Remy's pictures."
-    new ""
+    new "{b}Воспоминания{/b}\nПосмотреть на фотографии Реми."
 
     # achievements.rpy:318
     old "{b}Snoop{/b}\nLook at Anna's envelope."
-    new ""
+    new "{b}Ищейка{/b}\nПосмотреть на конверт Анны."
 
     # achievements.rpy:329
     old "{b}Leg Stretcher{/b}\nStretch your legs."
-    new ""
+    new "{b}Разминатель ног{/b}\nРазмять ноги."
 
     # achievements.rpy:344
     old "{b}Eau de Dragon{/b}\nExamine Bryce's blanket."
-    new ""
+    new "{b}Вода Дракона{/b}\nИзучить покрывало Брайса."
 
     # achievements.rpy:355
     old "{b}Research Material{/b}\nLook at Bryce's magazine."
-    new ""
+    new "{b}Материал для исследований{/b}\nПосмотреть на журнал Брайса."
 
     # achievements.rpy:366
     old "{b}Audiophile{/b}\nListen to a bunch of music."
-    new ""
+    new "{b}Aудиофил{/b}\nПослушать немного музыки."
 
     # achievements.rpy:377
     old "{b}The Politician{/b}\nMeet with Emera."
-    new ""
+    new "{b}Политик{/b}\nВстретиться с Эмерой."
 
     # achievements.rpy:388
     old "{b}Cartographer{/b}\nAcquire a map."
