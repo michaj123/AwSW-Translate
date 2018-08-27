@@ -4,75 +4,75 @@ translate russiantl strings:
 
     # achievements.rpy:10
     old "Achievement progress: [persistent.achievements]+1/63"
-    new ""
+    new "Прогресс достижений: [persistent.achievements]+1/63"
 
     # achievements.rpy:12
     old "Achievement progress: [persistent.achievements]/63"
-    new ""
+    new "Прогресс достижений: [persistent.achievements]/63"
 
     # achievements.rpy:39
     old "{b}Blood Donation{/b}\nGive Anna your blood."
-    new ""
+    new "{b}Донорство крови{/b}\nДать Анне свою кровь."
 
     # achievements.rpy:50
     old "{b}Bravery{/b}\nOrder the daily special."
-    new ""
+    new "{b}Храбрость{/b}\nЗаказать блюдо дня."
 
     # achievements.rpy:61
     old "{b}Bookworm{/b}\nRead a bunch of books."
-    new ""
+    new "{b}Книжный Червь{/b}\nПрочитать стопку книг."
 
     # achievements.rpy:72
     old "{b}Prescription{/b}\nTake a dragon dose of medication."
-    new ""
+    new "{b}Рецепт{/b}\nПринять драконью дозу препаратов."
 
     # achievements.rpy:83
     old "{b}Daredevil{/b}\nDrink a mysterious liquid."
-    new ""
+    new "{b}Смельчак{/b}\nВыпить мистическую жидкость."
 
     # achievements.rpy:98
     old "{b}Ovicide{/b}\nWaste a perfectly good batch of eggs."
-    new ""
+    new "{b}Яйцоубийство{/b}\nИстратить прекрасную партию яиц."
 
     # achievements.rpy:109
     old "{b}Fruitarian{/b}\nLearn a lot about fruits."
-    new ""
+    new "{b}Фрукторианец{/b}\nУзнать больше о фруктах."
 
     # achievements.rpy:120
     old "{b}Nuisance{/b}\nRefuse to help Bryce 99 times."
-    new ""
+    new "{b}Неприятность{/b}\nОтказать в помощи Брайсу 99 раз."
 
     # achievements.rpy:131
     old "{b}Investigator 1{/b}\nDo well on the first investigation."
-    new ""
+    new "{b}Следователь 1{/b}\nПреуспеть на первом расследовании."
 
     # achievements.rpy:142
     old "{b}Librarian{/b}\nBring Remy's books into the correct order."
-    new ""
+    new "{b}Библиотекарь{/b}\nРасставить книги Реми в правильном порядке."
 
     # achievements.rpy:157
     old "{b}Patient{/b}\nWait for Remy until you get bored."
-    new ""
+    new "{b}Терпиливый{/b}\nПодождfnm Реми, пока не надоест."
 
     # achievements.rpy:168
     old "{b}General Knowledgist{/b}\nAnswer Anna's questions correctly."
-    new ""
+    new "{b}Всезнающий{/b}\nПравильно ответьте на вопросы Анны."
 
     # achievements.rpy:179
     old "{b}Teetotaler{/b}\nReject Bryce's invitation."
-    new ""
+    new "{b}Трезвенник{/b}\nОтклонить приглашение Брайса."
 
     # achievements.rpy:190
     old "{b}Disrobement{/b}\nGet Adine to remove her headgear."
-    new ""
+    new "{b}Раздевание{/b}\nУговорить Адин снять головной убор."
 
     # achievements.rpy:201
     old "{b}You are a winner!{/b}\nBeat Sebastian at his own game."
-    new ""
+    new "{b}Вы - победитель!{/b}\nОбыграть Себастьяна в его же игре."
 
     # achievements.rpy:226
     old "{b}Interrogator 1{/b}\nInterrogate Damion."
-    new ""
+    new "{b}Допрашивающий 1{/b}\nОпросить Дэмиона."
 
     # achievements.rpy:237
     old "{b}Finders, Keepers{/b}\nAcquire the bloody bandage."
