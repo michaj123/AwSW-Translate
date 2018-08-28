@@ -792,7 +792,7 @@ translate russiantl _call_skipcheck_2_0054b77b:
 translate russiantl _call_skipcheck_2_8b54a3a5:
 
     # Sb "H-Hello! You must be [player_name]. I'm Sebastian, and I'll be your escort... or s-security, I suppose. Usually I work for the police, though. Nice to meet you."
-    Sb "П-Приветствую! Вы, должно быть, [player_name]. Я Себастиан, и буду вашим сопровождением... или о-охраной, полагаю. Обычно я работаю на полицию, однако. Приятно познакомиться."
+    Sb "П-Приветствую! Вы, должно быть, [player_name]. Я Себастиан, и буду Вашим сопровождением... или о-охраной, полагаю. Обычно я работаю на полицию, однако. Приятно познакомиться."
 
 # game/chapter1.rpy:1259
 translate russiantl _call_skipcheck_2_dd8ee6c6:
