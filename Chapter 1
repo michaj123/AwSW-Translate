@@ -566,7 +566,7 @@ translate russiantl holetravel_91c5ac30:
 translate russiantl holetravel_98cf1cad:
 
     # c "It is getting hard to see where I'm going..."
-    c "Мне не становится сложно разглядеть, куда мы идём..."
+    c "Мне становится сложно разглядеть, куда мы идём..."
 
 # game/chapter1.rpy:682
 translate russiantl holetravel_aeb0c88e:
@@ -810,13 +810,13 @@ translate russiantl _call_skipcheck_2_369fcd63:
 translate russiantl _call_skipcheck_2_7a25dc5e:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Мне тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
+    c "Мне тоже приятно познакомиться, Себастиан. Так, куда Ты собираешься вести меня?"
 
 # game/chapter1.rpy:1268
 translate russiantl _call_skipcheck_2_7a25dc5e_1:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Мне тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
+    c "Мне тоже приятно познакомиться, Себастиан. Так, куда Ты собираешься вести меня?"
 
 # game/chapter1.rpy:1274
 translate russiantl _call_skipcheck_2_540956bc:
@@ -828,7 +828,7 @@ translate russiantl _call_skipcheck_2_540956bc:
 translate russiantl _call_skipcheck_2_7a25dc5e_2:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Я тоже рад познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
+    c "Я тоже рад познакомиться, Себастиан. Так, куда Ты собираешься вести меня?"
 
 # game/chapter1.rpy:1284
 translate russiantl _call_skipcheck_2_89d32851:
