@@ -112,7 +112,7 @@ translate russiantl strings:
 
     # achievements.rpy:344
     old "{b}Eau de Dragon{/b}\nExamine Bryce's blanket."
-    new "{b}Вода Дракона{/b}\nИзучить покрывало Брайса."
+    new "{b}Eau de Dragon{/b}\nИзучить покрывало Брайса."
 
     # achievements.rpy:355
     old "{b}Research Material{/b}\nLook at Bryce's magazine."
@@ -172,7 +172,7 @@ translate russiantl strings:
 
     # achievements.rpy:531
     old "{b}In Loco Parentis{/b}\nReturn the eggs to the hatchery."
-    new "{b}На месте одного из родителей{/b}\nВернуть яйца в инкубаторий."
+    new "{b}In Loco Parentis{/b}\nВернуть яйца в инкубаторий."
 
     # achievements.rpy:542
     old "{b}Sphere Builder{/b}\nAssemble the sphere."
