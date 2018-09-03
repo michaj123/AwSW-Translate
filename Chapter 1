@@ -3321,157 +3321,157 @@ translate russiantl continuation_d91ccab5:
 translate russiantl continuation_da9f7420:
 
     # m "The next day, I awoke with many questions lingering in my head. I considered calling someone from the police department to ask about Reza and Maverick, but in the end I decided against doing so as I was sure they would contact me if they had anything to tell me."
-    m ""
+    m "На следующий день я проснулся с множеством вопросов в голове. Я думал позвонить кому-то из полицейского управления, чтобы спросить о Резе и Маверике, но в конце концов я решил не делать этого, поскольку я был уверен, что они свяжутся со мной, если им будет что сказать мне."
 
 # game/chapter1.rpy:3012
 translate russiantl continuation_356de34c:
 
     # m "I knew it was no use worrying about it for now, so I settled for starting another book."
-    m ""
+    m "Я знал, что пока нет смысла беспокоиться об этом, поэтому я решил начать читать другую книгу."
 
 # game/chapter1.rpy:3018
 translate russiantl continuation_45b58ace:
 
     # m "It didn't take very long, though, before the doorbell rang."
-    m ""
+    m "Это не заняло много времени, прежде чем раздался звонок в дверь."
 
 # game/chapter1.rpy:3026
 translate russiantl continuation_e6336435:
 
     # m "Did Bryce, the chief of police, take it upon himself to escort me today?"
-    m ""
+    m "Брайс, начальник полиции, взял на себя смелость сопроводить меня сегодня?"
 
 # game/chapter1.rpy:3027
 translate russiantl continuation_307573b1:
 
     # c "Oh, it's you again."
-    c ""
+    c "О, это снова ты."
 
 # game/chapter1.rpy:3031
 translate russiantl continuation_2d633b3b:
 
     # Br "Are you surprised?"
-    Br ""
+    Br "Ты удивлен?"
 
 # game/chapter1.rpy:3032
 translate russiantl continuation_543d8da1:
 
     # c "No, but I guess it'll mean bad news."
-    c ""
+    c "Нет, но думаю, это будет означать плохие новости."
 
 # game/chapter1.rpy:3036
 translate russiantl continuation_99547c1f:
 
     # Br "'Fraid so. How are you holding up?"
-    Br ""
+    Br "Боюсь, что да. Как ты справляешься тут?"
 
 # game/chapter1.rpy:3037
 translate russiantl continuation_2d438d3a:
 
     # c "Better than yesterday, that's for sure."
-    c ""
+    c "Лучше, чем вчера, это точно."
 
 # game/chapter1.rpy:3038
 translate russiantl continuation_9c4a5e35:
 
     # Br "Let's go for a walk then, shall we?"
-    Br ""
+    Br "Тогда пойдем прогуляемся, хорошо?"
 
 # game/chapter1.rpy:3039
 translate russiantl continuation_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Хорошо."
 
 # game/chapter1.rpy:3045
 translate russiantl continuation_8c191191:
 
     # m "This time, I was taken along a different route than yesterday. And I was quite sure there was more to this than just taking a walk."
-    m ""
+    m "На этот раз меня повели по другому маршруту, чем вчера. И я был уверен, что это нечто большее, чем просто прогулка."
 
 # game/chapter1.rpy:3046
 translate russiantl continuation_b044f66d:
 
     # c "I'll just go ahead and guess you didn't find Reza."
-    c ""
+    c "Я просто догадаюсь, что вы не нашели Резу."
 
 # game/chapter1.rpy:3050
 translate russiantl continuation_9f6c2417:
 
     # Br "Yeah, we hoped he would have come back on his own by now. Do you have any idea where he might be? Maybe he mentioned some sort of place in particular that holds some meaning to him?"
-    Br ""
+    Br "Да, мы надеялись, что он вернется сам. У тебя есть идеи, где он может быть? Может быть, он упомянул какое-то конкретное место, которое имеет для него какое-то значение?"
 
 # game/chapter1.rpy:3051
 translate russiantl continuation_4c1fa005:
 
     # c "No, not really. We didn't get a chance to talk much at all yesterday, before..."
-    c ""
+    c "Нет, не совсем так. Вчера у нас не было возможности много поговорить..."
 
 # game/chapter1.rpy:3052
 translate russiantl continuation_75ddc3b5:
 
     # Br "There's that, too."
-    Br ""
+    Br "Это тоже."
 
 # game/chapter1.rpy:3054
 translate russiantl continuation_61783f37:
 
     # c "I have no idea why Reza would have done anything like that. I had the impression that they weren't very fond of each other, but this... How is he, by the way?"
-    c ""
+    c "Я понятия не имею, зачем Резе делать что-то подобное. У меня сложилось впечатление, что они не очень любят друг друга, но это... Кстати, как он себя чувствует?"
 
 # game/chapter1.rpy:3056
 translate russiantl continuation_a0b6f7f7:
 
     # Br "Oh, Maverick is doing fine, but there is plenty of blame to go around. You're right, they didn't particularly like each other."
-    Br ""
+    Br "О, Маверик в порядке, но винить есть кого. Ты прав, они не особо любят друг друга"
 
 # game/chapter1.rpy:3060
 translate russiantl continuation_7a99e663:
 
     # Br "In his statement, Maverick says he suspected Reza of planning some sort of attack. Do you know anything about that?"
-    Br ""
+    Br "В своем заявлении Маверик говорит, что он подозревал Резу в планировании какой-то атаки. Ты знаешь что-нибудь об этом"
 
 # game/chapter1.rpy:3061
 translate russiantl continuation_ebde17ff:
 
     # c "No, he only told me something was going to happen, not that he was planning anything. At least that was the impression I got."
-    c ""
+    c "Нет, он только сказал, что что-то произойдет, а не то, что он что-то планирует. По крайней мере, у меня сложилось такое впечатление."
 
 # game/chapter1.rpy:3065
 translate russiantl continuation_9362d609:
 
     # Br "He's suspecting you too, by the way. That you both planned this all from the beginning."
-    Br ""
+    Br "Кстати, он и тебя подозревает. Что вы оба планировали все это с самого начала."
 
 # game/chapter1.rpy:3066
 translate russiantl continuation_b759422a:
 
     # c "No, that wouldn't make sense."
-    c ""
+    c "Нет, это не имеет бы смысла."
 
 # game/chapter1.rpy:3067
 translate russiantl continuation_36b1d91b:
 
     # c "Actually, none of this is making any sense. Why would we go through all the lengths of our agreement only to jeopardize it by doing something like this?"
-    c ""
+    c "Вообще-то, все это не имеет никакого смысла. Зачем нам проходить через все этапы нашего соглашения, только чтобы поставить его под угрозу, делая что-то подобное?"
 
 # game/chapter1.rpy:3068
 translate russiantl continuation_b1d6e9a7:
 
     # c "You even already have our PDAs and we don't have much to show for it yet. If we had any nefarious plans, this wouldn't have been a very good idea."
-    c ""
+    c "У вас даже уже есть наши КПК и пока у нас мало чего показать. Если у нас были гнусные планы, это не очень хорошая идея."
 
 # game/chapter1.rpy:3069
 translate russiantl continuation_331ab8bc:
 
     # Br "You have a good point. I believe you, but from our side we only have Maverick's word on the whole matter. After all, he was the one who spent the most time with Reza since he arrived here."
-    Br ""
+    Br "В этом ты прав. Я тебе верю, но с нашей стороны у нас есть только слово Маверика по этому вопросу. В конце концов, именно он провел больше всего времени с Резой с тех пор, как приехал сюда."
 
 # game/chapter1.rpy:3070
 translate russiantl continuation_3e2508cf:
 
     # Br "But even then, he didn't really have any reason to follow you yesterday and his behavior was completely out of line. I'm just glad you came out fine."
-    Br ""
+    Br "Но даже тогда у него не было никаких причин следовать за тобой вчера, и его поведение было совершенно неуместным. Я рад, что ты в порядке."
 
 # game/chapter1.rpy:3071
 translate russiantl continuation_7e4b50e4:
