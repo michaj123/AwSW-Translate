@@ -10,31 +10,31 @@ translate russiantl badending_76b2fe88:
 translate russiantl badending_04624187:
 
     # n "The choices you made led you to this rather unfavorable outcome."
-    n ""
+    n "Выбор, который Вы сделали, привел вас к этому довольно неблагоприятному исходу."
 
 # game/endings.rpy:8
 translate russiantl badending_098145bc:
 
     # n "In the full story of {i}Angels with Scaly Wings{/i}, this would have a number of consequences."
-    n ""
+    n "В полной истории об {i}Angels with Scaly Wings{/i} это имело бы ряд последствий."
 
 # game/endings.rpy:9
 translate russiantl badending_a4be4be6:
 
     # n "For one, you could no longer pursue the dragon you were just spending some time with - making their route inaccessible for the remainder of the current playthrough. This, of course, has its own ramifications, such as not being able to rely on their help when you need it and limiting the ways you can alter the end of the game."
-    n ""
+    n "Во-первых, Вы больше не могли преследовать дракона, с которым Вы просто проводили некоторое время, делая их маршрут недоступным для остальной части текущего прохождения. Это, конечно же, имеет свои последствия, такие как невозможность полагаться на их помощь, когда Вам это нужно, и ограничение способов изменения конца игры.
 
 # game/endings.rpy:10
 translate russiantl badending_ddc55d2e:
 
     # n "They will also want to avoid you, leading to some interesting situations when you run across them later on."
-    n ""
+    n "Они также захотят избежать Вас, что приведет к некоторым интересным ситуациям, когда вы столкнетесь с ними позже"
 
 # game/endings.rpy:11
 translate russiantl badending_5ad1a74a:
 
     # n "In the end, {i}Angels with Scaly Wings{/i} is all about the choices you make, so be sure to make them wisely or suffer the consequences."
-    n ""
+    n "В конце концов, {i}Angels with Scaly Wings{/i} это все о выборе вы делаете, так что не забудьте сделать их мудро или страдать от последствий
 
 # game/endings.rpy:12
 translate russiantl badending_afaafa22:
