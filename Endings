@@ -34,13 +34,13 @@ translate russiantl badending_ddc55d2e:
 translate russiantl badending_5ad1a74a:
 
     # n "In the end, {i}Angels with Scaly Wings{/i} is all about the choices you make, so be sure to make them wisely or suffer the consequences."
-    n "В конце концов, {i}Angels with Scaly Wings{/i} это все о выборе вы делаете, так что не забудьте сделать их мудро или страдать от последствий
+    n "В конце концов, {i}Angels with Scaly Wings{/i} это всё о выборе, который Вы делаете, так что не забудьте сделать его мудро или страдайте от последствий."
 
 # game/endings.rpy:12
 translate russiantl badending_afaafa22:
 
     # n "Luckily for you, there are other characters to spend your limited time with, so your loss might not be all that bad."
-    n ""
+    n "К счастью для Вас, есть другие персонажи, с которыми Вы проводите ограниченное время, поэтому Ваша потеря может быть не такой уж плохой."
 
 # game/endings.rpy:13
 translate russiantl badending_76b2fe88_1:
@@ -58,43 +58,43 @@ translate russiantl neutralending_76b2fe88:
 translate russiantl neutralending_db077295:
 
     # n "You completed the character scene and arrived at a neutral outcome."
-    n ""
+    n "Вы завершили сцену персонажа и пришли к нейтральному результату."
 
 # game/endings.rpy:23
 translate russiantl neutralending_f30ba9ec:
 
     # n "Congratulations! Some don't even get that far."
-    n ""
+    n "Поздравляю! Некоторые даже не заходят так далеко."
 
 # game/endings.rpy:24
 translate russiantl neutralending_584c4889:
 
     # n "A neutral outcome is just what it sounds like: Not too bad, but not too great either. It also represents the dragon's current feelings towards you. In any case, it will be up to you to further the relationship, if you so desire, and want to hear the rest of their story."
-    n ""
+    n "Нейтральный результат - это то, на что это похоже: не слишком плохо, но и не слишком здорово. Он также представляет текущие чувства дракона к Вам. В любом случае, именно от Вас будет зависеть дальнейшее развитие отношений, если Вы того пожелаете, и захотите услышать остальную их историю."
 
 # game/endings.rpy:25
 translate russiantl neutralending_613399b4:
 
     # n "In the end, {i}Angels with Scaly Wings{/i} is all about your choices, so whether you pursue this dragon further or not is completely up to you."
-    n ""
+    n "В конце концов, {i}Angels with Scaly Wings{/i} это всё о вашем выборе, поэтому, будете ли Вы преследовать этого дракона дальше или нет, полностью зависит от Вас."
 
 # game/endings.rpy:26
 translate russiantl neutralending_43f0cc99:
 
     # n "In the full game, your time in the dragons' world will be limited, so the one you spend it with will be an important decision to make, with consequences reaching farther than you might think."
-    n ""
+    n "В полной версии игры, Ваше время в мире драконов будет ограничено, поэтому то, с кем Вы его проведете, будет важным решением, и последствия будут идти дальше, чем Вы думаете."
 
 # game/endings.rpy:27
 translate russiantl neutralending_b162601a:
 
     # n "Though, a neutral outcome might be just what you wanted, as it keeps your options open without the need for commitment."
-    n ""
+    n "Хотя, нейтральный исход может быть именно тем, что Вы хотели, так как он держит ваши варианты открытыми без необходимости обязательств."
 
 # game/endings.rpy:28
 translate russiantl neutralending_d6c40954:
 
     # n "However, \"just enough\" might not be sufficient to reach the goal you want."
-    n ""
+    n "Однако, может быть недостаточно для достижения цели, которую вы хотите"
 
 # game/endings.rpy:29
 translate russiantl neutralending_76b2fe88_1:
@@ -112,31 +112,31 @@ translate russiantl goodending_76b2fe88:
 translate russiantl goodending_1e67cca7:
 
     # n "You impressed the dragon you were just spending time with. Good job!"
-    n ""
+    n "Вы впечатлили дракона, с которым вы просто проводили время. Отличная работа!"
 
 # game/endings.rpy:39
 translate russiantl goodending_ffcbdcf5:
 
     # n "In the full game of {i}Angels with Scaly Wings{/i}, this means they will continue to pursue you and will want to meet with you again."
-    n ""
+    n "В полной версии игры {i}Angels with Scaly Wings{/i} это означает, что они будут продолжать преследовать Вас и захотят снова встретиться с Вами."
 
 # game/endings.rpy:40
 translate russiantl goodending_06c447b5:
 
     # n "Depending on the character, their interest will materialize in a number of behaviors, such as calling your phone or showing up in unexpected places."
-    n ""
+    n "В зависимости от персонажа, их интерес будет проявляться в ряде поведения, таких как вызов телефона или появление в неожиданных местах."
 
 # game/endings.rpy:41
 translate russiantl goodending_2429f1c7:
 
     # n "However, if your feelings about them change or if they hear about you spending time with another dragon, this may turn out badly."
-    n ""
+    n "Однако, если Ваши чувства к ним изменятся или если они услышат о том, что Вы проводите время с другим драконом, это может обернуться плохо."
 
 # game/endings.rpy:42
 translate russiantl goodending_ce6726c9:
 
     # n "In any case, {i}Angels with Scaly Wings{/i} is all about the choices you make, so it will be up to you to decide how to handle these situations."
-    n ""
+    n "В любом случае, {i}Angels with Scaly Wings{/i} это всё о вашем выборе, так что Вам решать, как справляться с этими ситуациями."
 
 # game/endings.rpy:43
 translate russiantl goodending_76b2fe88_1:
@@ -148,19 +148,19 @@ translate russiantl goodending_76b2fe88_1:
 translate russiantl cont_069dc64e:
 
     # n "Regardless of your outcome, this demo offers an easy way to go back and experience the different possiblities you could have achieved."
-    n ""
+    n "Независимо от Ваших результатов, эта демонстрация предлагает простой способ вернуться и испытать различные возможности, которые Вы могли бы достичь."
 
 # game/endings.rpy:48
 translate russiantl cont_86779def:
 
     # n "If you wish, we can return you to the scene selection screen so you can replay the same character scene and make different choices, or play another one that features a different character."
-    n ""
+    n "Если Вы хотите, мы можем вернуть Вас на экран выбора, чтобы Вы могли воспроизвести ту же сцену персонажа и сделать другой выбор или сыграть другую сцену с другим персонажем."
 
 # game/endings.rpy:49
 translate russiantl cont_2c436d9e:
 
     # n "Once again, the choice is yours."
-    n ""
+    n "Еще раз повторюсь, выбор за Вами."
 
 # game/endings.rpy:51
 translate russiantl cont_76b2fe88:
@@ -172,9 +172,9 @@ translate russiantl strings:
 
     # endings.rpy:53
     old "Bring me back."
-    new ""
+    new "Вернуть меня."
 
     # endings.rpy:53
     old "No, I'm done."
-    new ""
+    new "Нет, я закончил."
 
