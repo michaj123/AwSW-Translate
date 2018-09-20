@@ -1056,7 +1056,7 @@ translate russiantl _call_skipcheck_2_ec602286_1:
 translate russiantl _call_skipcheck_2_e2ad732a:
 
     # An "My pleasure. I have something for you, by the way. It'll take them a while to make all the generators we promised, but we've got one for you here. Feel free to send it home and give it a test."
-    An "Весьма приятно. У меня есть кое-что для вас, кстати. Им понадобится некоторое время, чтобы собрать все обещанные генераторы, но здесь уже один подготовлен для Вас. Вы можете отправить его домой и провести тестирование."
+    An "Весьма приятно. У меня есть кое-что для вас, кстати. Им понадобится некоторое время, чтобы собрать все обещанные генераторы, но здесь уже один подготовлен для вас. Вы можете отправить его домой и провести тестирование."
 
 # game/chapter1.rpy:1420
 translate russiantl _call_skipcheck_2_494a6341:
