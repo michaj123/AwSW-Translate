@@ -298,7 +298,7 @@ translate russiantl begingame_942d3fc8:
 translate russiantl begingame_b4430af1:
 
     # n "We called them {i}dragons{/i}, because according to Reza, that's what they were, or at least what they resembled most."
-    n "Мы назвали их {i}драконами{/i} тем, кем они были, судя по описанию Резы, или тем, на что они были похоже больше всего."
+    n "Мы назвали их {i}драконами{/i} потому что, судя по описанию Резы, это то, чем они являлись, или, по крайней мере, на что они были похоже больше всего."
 
 # game/chapter1.rpy:473
 translate russiantl begingame_73af8ba0:
