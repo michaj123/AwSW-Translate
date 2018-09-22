@@ -40,7 +40,7 @@ translate russiantl colormenu4_e933acee:
 translate russiantl detected_bc6e30f8:
 
     # s "Welcome back, [player_name]."
-    s "Добро пожаловать назад, [player_name]"
+    s "С возвращением, [player_name]"
 
 # game/chapter1.rpy:370
 translate russiantl detected_84b78b40:
@@ -70,13 +70,13 @@ translate russiantl detected_b55f0cf7:
 translate russiantl detected_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] или [[Right Click] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Mousewheel], или [[Page Up] и [[Page Down] чтобы посмотреть прошлые сообщения и перемотать."
+    "[[ESC] или [[Right Click] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Mousewheel], или [[Page Up] и [[Page Down] для просмотра прошлых сообщений и перемотки назад."
 
 # game/chapter1.rpy:385
 translate russiantl detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[Middle Click] или [[H] прячет текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы всегда можете сделать это из главного меню."
+    "Зажмите [[Ctrl] или нажмите [[Tab], чтобы промотать просмотренные сообщения.\n[[S] делает скриншот.\n[[Middle Click] или [[H] прячет текстовое окно.\nЕсли захотите увидеть эту информацию снова, Вы всегда можете сделать это из главного меню."
 
 # game/chapter1.rpy:386
 translate russiantl detected_4f5f91c6:
@@ -112,13 +112,13 @@ translate russiantl colorend_b55f0cf7:
 translate russiantl colorend_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] или [[Right Click] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Mousewheel], или [[Page Up] и [[Page Down] чтобы посмотреть прошлые сообщения и перемотать."
+    "[[ESC] или [[Right Click] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Mousewheel], или [[Page Up] и [[Page Down], для просмотра прошлых сообщений и перемотки назад."
 
 # game/chapter1.rpy:408
 translate russiantl colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[Middle Click] или [[H] прячет текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы всегда можете сделать это из главного меню."
+    "Зажмите [[Ctrl] или нажмите [[Tab], чтобы промотать просмотренные сообщения.\n[[S] делает скриншот.\n[[Middle Click] или [[H] прячет текстовое окно.\nЕсли захотите увидеть эту информацию снова, Вы всегда можете сделать это из главного меню."
 
 # game/chapter1.rpy:409
 translate russiantl colorend_7c214f52:
