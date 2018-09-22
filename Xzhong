@@ -4,295 +4,295 @@
 translate russiantl zhong_05bfcd47:
 
     # c "(Where is he?)"
-    c ""
+    c "(Где он?)"
 
 # game/xzhong.rpy:29
 translate russiantl zhong_1c061384:
 
     # c "Anybody here?"
-    c ""
+    c "Здесь есть кто?"
 
 # game/xzhong.rpy:33
 translate russiantl zhong_6a6f7d2a:
 
     # c "There you are."
-    c ""
+    c "Вот Вы где."
 
 # game/xzhong.rpy:53
 translate russiantl _call_skiptut_31_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Мои записи показывают, что Вы уже испытали эту сцену удовлетворительным образом. Хотите пропустить до конца?"
 
 # game/xzhong.rpy:61
 translate russiantl _call_skiptut_31_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "Похоже, Вы видели это раньше. Перейти к концу этой сцены?"
 
 # game/xzhong.rpy:69
 translate russiantl _call_skiptut_31_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Оказывается, Вы видели это раньше. Либо вы можете посмотреть это снова, либо мы можем сэкономить время и просто перейти к концу этой сцены"
 
 # game/xzhong.rpy:83
 translate russiantl _call_skiptut_31_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xzhong.rpy:103
 translate russiantl _call_skipcheck_31_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/xzhong.rpy:107
 translate russiantl _call_skipcheck_31_2cc1d0e9:
 
     # m "Suddenly, he grabbed my hand and bowed to plant a wet kiss on it with his snout."
-    m ""
+    m "Внезапно он схватил меня за руку и поклонился, чтобы поцеловать её своей мордой"
 
 # game/xzhong.rpy:117
 translate russiantl _call_skipcheck_31_0b0daba2:
 
     # Zh "Hello, [player_name]."
-    Zh ""
+    Zh "Здравствуй, [player_name]"
 
 # game/xzhong.rpy:121
 translate russiantl _call_skipcheck_31_6c2eb1af:
 
     # Wr "Hello, [player_name]."
-    Wr ""
+    Wr "Здравствуй, [player_name]"
 
 # game/xzhong.rpy:123
 translate russiantl _call_skipcheck_31_ec1b5bd0:
 
     # c "I'm sorry, but I don't think we've actually been properly introduced before. What was your name again?"
-    c ""
+    c "Извини, но я не думаю, что мы встечались раньше. Как Вас зовут?"
 
 # game/xzhong.rpy:125
 translate russiantl _call_skipcheck_31_371533e6:
 
     # Wr "You can call me Zhong."
-    Wr ""
+    Wr "Вы можете звать меня Чжун"
 
 # game/xzhong.rpy:128
 translate russiantl _call_skipcheck_31_846f4d22:
 
     # c "Where is everyone?"
-    c ""
+    c "Куда все подевались?"
 
 # game/xzhong.rpy:130
 translate russiantl _call_skipcheck_31_ebdf485b:
 
     # Zh "Well, the bar is already closed and everybody's gone home, so it's just us."
-    Zh ""
+    Zh "Ну, бар уже закрыт и все разошлись по домам, так что остались только мы."
 
 # game/xzhong.rpy:132
 translate russiantl _call_skipcheck_31_89aefe22:
 
     # c "I see."
-    c ""
+    c "Понятно."
 
 # game/xzhong.rpy:134
 translate russiantl _call_skipcheck_31_ee0aacf5:
 
     # c "Wait, is that Bryce sleeping under the table?"
-    c ""
+    c "Подожди, это Брайс спит под столом?"
 
 # game/xzhong.rpy:136
 translate russiantl _call_skipcheck_31_ba6d127d:
 
     # Zh smile b "Oh, you're right. Guess we're not alone, then."
-    Zh smile b ""
+    Zh smile b "Да, ты прав. Полагаю, мы не одни, тогда."
 
 # game/xzhong.rpy:138
 translate russiantl _call_skipcheck_31_52471970:
 
     # c "Does this happen often?"
-    c ""
+    c "И часто такое происходит?"
 
 # game/xzhong.rpy:140
 translate russiantl _call_skipcheck_31_b9cabd5e:
 
     # Zh normal b "Sometimes."
-    Zh normal b ""
+    Zh normal b "Иногда."
 
 # game/xzhong.rpy:142
 translate russiantl _call_skipcheck_31_7addedeb:
 
     # c "You should start charging him rent."
-    c ""
+    c "Ты должен начать взимать с него арендную плату."
 
 # game/xzhong.rpy:144
 translate russiantl _call_skipcheck_31_6f436e31:
 
     # Zh smile b "That's an idea. Maybe then I wouldn't have to work two jobs."
-    Zh smile b ""
+    Zh smile b "Хорошая идея. Может быть, тогда мне не пришлось бы работать на двух работах"
 
 # game/xzhong.rpy:146
 translate russiantl _call_skipcheck_31_2c16533e:
 
     # c "Right, what's up with that?"
-    c ""
+    c "Хорошо, что случилось?"
 
 # game/xzhong.rpy:148
 translate russiantl _call_skipcheck_31_f76a67ef:
 
     # Zh serv b "They're both just part-time, so it's no big deal."
-    Zh serv b ""
+    Zh serv b "Эти обе работы это подработки, так-что ничего страшного."
 
 # game/xzhong.rpy:150
 translate russiantl _call_skipcheck_31_e5ec1de0:
 
     # c "I see. Which one do you prefer?"
-    c ""
+    c "Понятно. Какая тебе больше нравиться."
 
 # game/xzhong.rpy:152
 translate russiantl _call_skipcheck_31_e0ed9548:
 
     # Zh normal b "It's hard to say, really. Bartending is much more fun, but working in the store pays better and is also more stable."
-    Zh normal b ""
+    Zh normal b "Трудно сказать, на самом деле. Бармен гораздо веселее, но работа в магазине оплачивается лучше, а также более стабильна."
 
 # game/xzhong.rpy:154
 translate russiantl _call_skipcheck_31_e025aa4a:
 
     # c "At least you get to wear a uniform in both. That doesn't exactly seem common around here."
-    c ""
+    c "По крайней мере, ты можешь носить униформу на обоих работах. Это не очень то частые вещи."
 
 # game/xzhong.rpy:156
 translate russiantl _call_skipcheck_31_8c4f4a51:
 
     # Zh "Yeah, they're usually very simple. I like this one, but after a while the collar can get a bit tight around the neck."
-    Zh ""
+    Zh "Да, обычно они очень простые. Мне нравится эта, но через некоторое время воротник может немного давить вокруг шеи."
 
 # game/xzhong.rpy:158
 translate russiantl _call_skipcheck_31_6d9b3f2f:
 
     # Zh "The store uniform is just a chore to get on. The hat, the apron - it all feels a bit constricting."
-    Zh ""
+    Zh "Униформа в магазине - это просто рутинная работа. Шляпа, фартук - все это немного сжимает."
 
 # game/xzhong.rpy:170
 translate russiantl _call_skipcheck_31_62bb089e:
 
     # Zh shy b "You think so?"
-    Zh shy b ""
+    Zh shy b "Ты так думаешь?"
 
 # game/xzhong.rpy:172
 translate russiantl _call_skipcheck_31_2a7bd759:
 
     # Zh smile b "Well, that's a new one."
-    Zh smile b ""
+    Zh smile b "Ну, это что-то новое."
 
 # game/xzhong.rpy:174
 translate russiantl _call_skipcheck_31_86c9ae80:
 
     # m "He was interrupted by a loud snore that came from under the table. When I looked down, I saw it was Bryce turning over in his sleep."
-    m ""
+    m "Его прервал громкий храп, который доносился из-под стола. Когда я посмотрел вниз, я увидел, что Брайс переворачивается во сне"
 
 # game/xzhong.rpy:176
 translate russiantl _call_skipcheck_31_c868976d:
 
     # Zh serv b "What, Bryce? You want another beer? Sorry, mate, but the bar's already closed."
-    Zh serv b ""
+    Zh serv b "Что, Брайс? Хочешь еще пива? Извини, приятель, но бар уже закрыт."
 
 # game/xzhong.rpy:178
 translate russiantl _call_skipcheck_31_fc063967:
 
     # Zh normal b "Isn't he wonderful?"
-    Zh normal b ""
+    Zh normal b "Разве он не милый?"
 
 # game/xzhong.rpy:186
 translate russiantl _call_skipcheck_31_e4e5b1a1:
 
     # Zh smile b "That's pretty accurate, I'd say."
-    Zh smile b ""
+    Zh smile b "Это довольно точно, я бы сказал."
 
 # game/xzhong.rpy:192
 translate russiantl _call_skipcheck_31_bb303012:
 
     # Zh smile b "Don't worry about that. I have my trusty mop for situations like that."
-    Zh smile b ""
+    Zh smile b "Не беспокойся об этом. У меня есть моя верная швабра для таких ситуаций"
 
 # game/xzhong.rpy:194
 translate russiantl _call_skipcheck_31_5320443c:
 
     # c "Hopefully, you won't need it tonight."
-    c ""
+    c "Надеюсь, тебе это не понадобится сегодня вечером"
 
 # game/xzhong.rpy:196
 translate russiantl _call_skipcheck_31_7d51115b:
 
     # Zh serv b "It's just another part of the job. I'm pretty used to it by now."
-    Zh serv b ""
+    Zh serv b "Это просто ещё одна часть работы. Я уже привык к этому."
 
 # game/xzhong.rpy:199
 translate russiantl _call_skipcheck_31_3faebf51:
 
     # c "You seem to know Bryce pretty well. How long have you known each other?"
-    c ""
+    c "Похоже, ты хорошо знаешь Брайса. Как давно вы знаете друг друга?"
 
 # game/xzhong.rpy:201
 translate russiantl _call_skipcheck_31_ec6e3488:
 
     # Zh normal b "Since childhood, really. We both grew up here."
-    Zh normal b ""
+    Zh normal b "С самого детства. Мы оба здесь выросли вместе."
 
 # game/xzhong.rpy:203
 translate russiantl _call_skipcheck_31_392c8ea9:
 
     # Zh serv b "If you think he's a bit rough now, you should have seen him in his youth. Such a troublemaker."
-    Zh serv b ""
+    Zh serv b "Если ты думаешь, что он сейчас немного грубоват, ты должен были видеть его в молодости. Такой нарушитель спокойствия."
 
 # game/xzhong.rpy:205
 translate russiantl _call_skipcheck_31_2346ca12:
 
     # Zh normal b "But you can rely on him for anything. I'd trust him with my life."
-    Zh normal b ""
+    Zh normal b "Но на него можно положиться во всем. Я бы доверил ему свою жизнь."
 
 # game/xzhong.rpy:207
 translate russiantl _call_skipcheck_31_b8b32ad9:
 
     # c "It seems like a lot of people have confidence in him as the chief of police."
-    c ""
+    c "Похоже, многие люди доверяют ему как начальнику полиции."
 
 # game/xzhong.rpy:209
 translate russiantl _call_skipcheck_31_7b1cc9c3:
 
     # Zh serv b "They do, and rightfully so."
-    Zh serv b ""
+    Zh serv b "На самом деле да, и делают это очень правильно."
 
 # game/xzhong.rpy:211
 translate russiantl _call_skipcheck_31_e0cb7d1b:
 
     # Zh normal b "The things he's done for me personally were way beyond his duties. The mark of a true friend."
-    Zh normal b ""
+    Zh normal b "То, что он сделал для меня лично, выходит за рамки его обязанностей. Он настоящий друг."
 
 # game/xzhong.rpy:213
 translate russiantl _call_skipcheck_31_f5fc3600:
 
     # c "What did he do?"
-    c ""
+    c "Что он сделал?"
 
 # game/xzhong.rpy:215
 translate russiantl _call_skipcheck_31_012f5987:
 
     # Zh "Oh, it's a long story. It has more to do with myself than him, really."
-    Zh ""
+    Zh "О, это длинная история. На самом деле, это больше касается меня, чем его."
 
 # game/xzhong.rpy:217
 translate russiantl _call_skipcheck_31_e1926fe6:
 
     # c "Come on, you can't just start like that and then not spill the beans."
-    c ""
+    c "Да ладно, ты не можешь просто так начать, а потом не рассказывать."
 
 # game/xzhong.rpy:219
 translate russiantl _call_skipcheck_31_d4196c2e:
 
     # Zh serv b "Well, if you say so."
-    Zh serv b ""
+    Zh serv b "Ну, если ты так говоришь"
 
 # game/xzhong.rpy:225
 translate russiantl _call_skipcheck_31_76b2fe88:
