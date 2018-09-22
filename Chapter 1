@@ -154,13 +154,13 @@ translate russiantl begingame_ef5e9be2:
 translate russiantl begingame_c9f110ae:
 
     # n "It all began when we discovered a strange device in the middle of nowhere during one of our expeditions... a portal."
-    n "Всё началось с того, когда мы нашли странное устройство в глуши во время одной из наших экспедиций... портал."
+    n "Все началось, когда мы обнаружили странное устройство в глуши во время одной из наших экспедиций... портал."
 
 # game/chapter1.rpy:431
 translate russiantl begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "Раньше я слышал о подобной технологии, хотя больше на экспериментальном уровне. Из того, что я знал, другие порталы были созданы в прошлом и рассматривались для массового применения. Что касается этого, в частности, мы не знали, кто его построил, или когда - или почему мы нашли его в пустыне, где мы это сделали. Что было более интересным для нас так это то, что он был... функциональным.."
+    n "Я слышал о подобной технологии раньше, хотя больше на экспериментальном уровне. Из того, что я знал, другие порталы были созданы в прошлом и рассматривались для массового применения. Что касается этого, в частности, мы не знали, кто его построил, или когда - или почему мы нашли его в пустыне, где мы это сделали. Что было более интересным для нас, так это то, что он был... функциональным.."
 
 # game/chapter1.rpy:433
 translate russiantl begingame_337d015e:
