@@ -810,13 +810,13 @@ translate russiantl _call_skipcheck_2_369fcd63:
 translate russiantl _call_skipcheck_2_7a25dc5e:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Мне тоже приятно познакомиться, Себастиан. Так, куда Ты собираешься вести меня?"
+    c "Мне тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
 
 # game/chapter1.rpy:1268
 translate russiantl _call_skipcheck_2_7a25dc5e_1:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Мне тоже приятно познакомиться, Себастиан. Так, куда Ты собираешься вести меня?"
+    c "Мне тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
 
 # game/chapter1.rpy:1274
 translate russiantl _call_skipcheck_2_540956bc:
@@ -828,7 +828,7 @@ translate russiantl _call_skipcheck_2_540956bc:
 translate russiantl _call_skipcheck_2_7a25dc5e_2:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Я тоже рад познакомиться, Себастиан. Так, куда Ты собираешься вести меня?"
+    c "Я тоже рад познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
 
 # game/chapter1.rpy:1284
 translate russiantl _call_skipcheck_2_89d32851:
@@ -900,7 +900,7 @@ translate russiantl _call_skipcheck_2_035ee4c5:
 translate russiantl _call_skipcheck_2_ab689bf0:
 
     # Rz "What a coincidence to have you, of all people, show up."
-    Rz "Какое совпадение, что из всех людей именно Ты оказался здесь."
+    Rz "Какое совпадение, что из всех людей именно ты оказался здесь."
 
 # game/chapter1.rpy:1324
 translate russiantl _call_skipcheck_2_a304046d:
@@ -966,13 +966,13 @@ translate russiantl _call_skipcheck_2_dc037c95:
 translate russiantl _call_skipcheck_2_3070bc42:
 
     # c "What are you talking about?"
-    c "О чем Ты говоришь?"
+    c "О чем ты говоришь?"
 
 # game/chapter1.rpy:1357
 translate russiantl _call_skipcheck_2_d732b21c:
 
     # Mv "So you're saying you haven't noticed the stares and how they all treat you like you're the next messiah or something?"
-    Mv "Ты хочешь сказать, что не заметил все эти взгляды со стороны, и как хорошо к тебе относятся, будь Ты следующим спасителем мира?"
+    Mv "ты хочешь сказать, что не заметил все эти взгляды со стороны, и как хорошо к тебе относятся, будь ты следующим спасителем мира?"
 
 # game/chapter1.rpy:1358
 translate russiantl _call_skipcheck_2_529aeda4:
@@ -984,7 +984,7 @@ translate russiantl _call_skipcheck_2_529aeda4:
 translate russiantl _call_skipcheck_2_4f894d15:
 
     # Rz "We're not the ones making a big deal out of this, you are. We're just here to get what we agreed on and then we'll be gone. If anything, I'd actually prefer if you left us alone, but you're the one who insists on following me around wherever I go."
-    Rz ""Мы не являемся теми, кто создаёт важное событие с нашего обмена, в отличие от вас. Мы здесь только для получения того, на что мы согласились, и затем мы уйдём. Если уж на то пошло, я бы и вправду хотел, чтобы вы оставили нас наедине. Но именно Ты настаиваешь на преследовании меня, куда бы я ни пошёл."
+    Rz ""Мы не являемся теми, кто создаёт важное событие с нашего обмена, в отличие от вас. Мы здесь только для получения того, на что мы согласились, и затем мы уйдём. Если уж на то пошло, я бы и вправду хотел, чтобы вы оставили нас наедине. Но именно ты настаиваешь на преследовании меня, куда бы я ни пошёл."
 
 # game/chapter1.rpy:1369
 translate russiantl _call_skipcheck_2_bf0efca8:
@@ -1026,7 +1026,7 @@ translate russiantl _call_skipcheck_2_aed26b36:
 translate russiantl _call_skipcheck_2_1e106597:
 
     # Sb "Wait a minute, I thought we were going to meet the guys from production. What are you doing here?"
-    Sb "Одну минуту, я думал, нас собирались встретить люди из производства. Что Ты делаешь здесь?"
+    Sb "Одну минуту, я думал, нас собирались встретить люди из производства. Что ты делаешь здесь?"
 
 # game/chapter1.rpy:1405
 translate russiantl _call_skipcheck_2_8c860b7d:
@@ -1098,7 +1098,7 @@ translate russiantl _call_skipcheck_2_352f0511:
 translate russiantl _call_skipcheck_2_e7d08b3b:
 
     # An "Oh, have you brought the PDA?"
-    An "О, так Ты захватил КПК?"
+    An "О, так ты захватил КПК?"
 
 # game/chapter1.rpy:1444
 translate russiantl _call_skipcheck_2_22753051:
@@ -1122,7 +1122,7 @@ translate russiantl _call_skipcheck_2_677e591a:
 translate russiantl _call_skipcheck_2_63d2793a:
 
     # An "By the way, would you consider letting me run some tests on you as well? It would only take a drop of your blood."
-    An "Кстати, Ты был бы не против насчёт проведения нескольких анализов на тебе? Мне необходима только капля твоей крови."
+    An "Кстати, ты был бы не против насчёт проведения нескольких анализов на тебе? Мне необходима только капля твоей крови."
 
 # game/chapter1.rpy:1455
 translate russiantl _call_skipcheck_2_115c34c4:
@@ -1140,7 +1140,7 @@ translate russiantl _call_skipcheck_2_86653501:
 translate russiantl _call_skipcheck_2_747d3bb6:
 
     # An "Really? I thought you wouldn't mind."
-    An "Серьёзно? Я думала Ты не будешь возражать."
+    An "Серьёзно? Я думала ты не будешь возражать."
 
 # game/chapter1.rpy:1469
 translate russiantl _call_skipcheck_2_4f8dfa7a:
@@ -1170,7 +1170,7 @@ translate russiantl _call_skipcheck_2_ff60882c:
 translate russiantl _call_skipcheck_2_4cb93198:
 
     # An "Now, if you would give me your hand, please."
-    An "Теперь, если Ты позволишь, подай мне свою руку, пожалуйста."
+    An "Теперь, если ты позволишь, подай мне свою руку, пожалуйста."
 
 # game/chapter1.rpy:1483
 translate russiantl _call_skipcheck_2_5bb6a80a:
@@ -1254,7 +1254,7 @@ translate russiantl _call_syscheck_4_a1f0da02:
 translate russiantl _call_syscheck_4_ee81a23f:
 
     # Rz "Did you give it to her?"
-    Rz "Ты позволил ей?"
+    Rz "ты позволил ей?"
 
 # game/chapter1.rpy:1535
 translate russiantl _call_syscheck_4_6bc8260f:
@@ -1440,7 +1440,7 @@ translate russiantl _call_skipcheck_3_d29fed27:
 translate russiantl _call_skipcheck_3_cf34577b:
 
     # Rz "As I was saying, if you look at the big picture, don't you think there's just something... off about this whole place? Where is it, really?"
-    Rz "Как я говорил, если Ты посмотришь на картину в целом, тебе не кажется, что здесь что-то... не так с этим всем местом? Действительно, где оно находится?"
+    Rz "Как я говорил, если ты посмотришь на картину в целом, тебе не кажется, что здесь что-то... не так с этим всем местом? Действительно, где оно находится?"
 
 # game/chapter1.rpy:1704
 translate russiantl _call_skipcheck_3_15dfbdc0:
@@ -1452,7 +1452,7 @@ translate russiantl _call_skipcheck_3_15dfbdc0:
 translate russiantl _call_skipcheck_3_b8b2e60e:
 
     # Rz "I've been here much longer than you have been. Maybe you'll see soon enough."
-    Rz "Я нахожусь здесь намного дольше, чем Ты. Может, вскоре Ты поймёшь о чём я."
+    Rz "Я нахожусь здесь намного дольше, чем ты. Может, вскоре ты поймёшь о чём я."
 
 # game/chapter1.rpy:1719
 translate russiantl _call_skipcheck_3_0fd8eb86:
@@ -1476,7 +1476,7 @@ translate russiantl _call_skipcheck_3_eb44c2be:
 translate russiantl _call_skipcheck_3_6f1597fd:
 
     # c "What kind of trouble? What are you talking about?"
-    c "Какого рода опасности? О чём Ты вообще говоришь?"
+    c "Какого рода опасности? О чём ты вообще говоришь?"
 
 # game/chapter1.rpy:1734
 translate russiantl _call_skipcheck_3_7b36bca9:
@@ -1560,7 +1560,7 @@ translate russiantl _call_skipcheck_3_668be73b:
 translate russiantl _call_skipcheck_3_55feee46:
 
     # Rz "I'll send you a letter with a coded message later. You'll know what to do."
-    Rz ""Я отправлю тебе письмо с зашифрованным посланием позднее. Ты поймёшь, что делать."
+    Rz ""Я отправлю тебе письмо с зашифрованным посланием позднее. ты поймёшь, что делать."
 
 # game/chapter1.rpy:1784
 translate russiantl _call_skipcheck_3_cac943c3:
@@ -1572,7 +1572,7 @@ translate russiantl _call_skipcheck_3_cac943c3:
 translate russiantl _call_skipcheck_3_a4e9199d:
 
     # c "But you haven't even touched your... fish."
-    c "Но Ты даже не притронулся к своей... рыбе."
+    c "Но ты даже не притронулся к своей... рыбе."
 
 # game/chapter1.rpy:1792
 translate russiantl _call_skipcheck_3_8d2721c9:
@@ -1668,7 +1668,7 @@ translate russiantl _call_skipcheck_3_3271cb01:
 translate russiantl _call_skipcheck_3_2f18e3e6:
 
     # Sb "And you wouldn't be the only one to say that. You better wait outside just in case it decides to come up again."
-    Sb "И Ты будешь не единственным, кто так скажет. Тебе лучше подождать снаружи."
+    Sb "И ты будешь не единственным, кто так скажет. Тебе лучше подождать снаружи."
 
 # game/chapter1.rpy:1834
 translate russiantl _call_syscheck_6_c55bcfa6:
@@ -1760,7 +1760,7 @@ translate russiantl _call_syscheck_6_394829b3:
 translate russiantl _call_syscheck_6_5566c4b8:
 
     # Sb "I gave her a generous tip on your behalf. I hope you don't mind."
-    Sb "Я дал ей щедрые чаевые от твоего имени. Надеюсь, Ты не возражаешь."
+    Sb "Я дал ей щедрые чаевые от твоего имени. Надеюсь, ты не возражаешь."
 
 # game/chapter1.rpy:1890
 translate russiantl _call_syscheck_6_1d4d5f4b:
@@ -1790,7 +1790,7 @@ translate russiantl _call_syscheck_6_09595634:
 translate russiantl _call_syscheck_6_61dd893b:
 
     # Sb "In any case, now that you've given us the PDA and Reza has the generator, you're free for today. So, if you want to go anywhere in particular, let me know, or I could show you around town."
-    Sb "В любом случае, когда вы дали нам КПК, а у Резы есть генератор, вы свободны на сегодня. Так что, если Ты хочешь пойти куда-то конкретно, дай мне знать, или я могу показать тебе город."
+    Sb "В любом случае, когда вы дали нам КПК, а у Резы есть генератор, вы свободны на сегодня. Так что, если ты хочешь пойти куда-то конкретно, дай мне знать, или я могу показать тебе город."
 
 # game/chapter1.rpy:1902
 translate russiantl _call_syscheck_6_288fbfbf:
@@ -1956,7 +1956,7 @@ translate russiantl _call_syscheck_6_00e986e3:
 translate russiantl _call_syscheck_6_856886b5:
 
     # Sb "What is this about?"
-    Sb "Что Ты хочешь этим сказать?"
+    Sb "Что ты хочешь этим сказать?"
 
 # game/chapter1.rpy:2019
 translate russiantl _call_syscheck_6_b42e14de:
@@ -1968,7 +1968,7 @@ translate russiantl _call_syscheck_6_b42e14de:
 translate russiantl _call_syscheck_6_0437a5d3:
 
     # Sb disapproval b "Wait a minute... I recognize you. You tried to do the same thing with Reza! Maybe I should report you to your superiors for your inappropriate behavior toward your clients."
-    Sb disapproval b "Подожди минутку... Я узнаю тебя. Ты пытался сделать то же самое с Резой! Может, мне стоит доложить вашему начальству о вашем неподобающем поведении по отношению к клиентам."
+    Sb disapproval b "Подожди минутку... Я узнаю тебя. ты пытался сделать то же самое с Резой! Может, мне стоит доложить вашему начальству о вашем неподобающем поведении по отношению к клиентам."
 
 # game/chapter1.rpy:2023
 translate russiantl _call_syscheck_6_c9422976:
@@ -1980,7 +1980,7 @@ translate russiantl _call_syscheck_6_c9422976:
 translate russiantl _call_syscheck_6_3b272ad6:
 
     # Sb normal b "You know how it is. If you want an interview with one of the humans, you'll have to get permission from the proper authorities."
-    Sb normal b "Ты знаешь, как это бывает. Если вы хотите интервью с одним из людей, вам нужно получить разрешение от соответствующих властей."
+    Sb normal b "ты знаешь, как это бывает. Если вы хотите интервью с одним из людей, вам нужно получить разрешение от соответствующих властей."
 
 # game/chapter1.rpy:2027
 translate russiantl _call_syscheck_6_a1a7cf43:
@@ -1992,7 +1992,7 @@ translate russiantl _call_syscheck_6_a1a7cf43:
 translate russiantl _call_syscheck_6_27ab87a8:
 
     # Lo happy b flip "Then you should talk to me. Otherwise, someone else will fill in the blanks and who knows what they will come up with."
-    Lo happy b flip "Тогда Ты должен поговорить со мной. В противном случае, кто-то еще заполнить пробелы, и кто знает, что они придумают."
+    Lo happy b flip "Тогда ты должен поговорить со мной. В противном случае, кто-то еще заполнить пробелы, и кто знает, что они придумают."
 
 # game/chapter1.rpy:2031
 translate russiantl _call_syscheck_6_d1179078:
@@ -2022,7 +2022,7 @@ translate russiantl _call_syscheck_6_76f36185:
 translate russiantl _call_syscheck_6_0ce0d2c1:
 
     # c "What are you, Lorem? A reporter?"
-    c "Лорем, кто Ты? Репортер?"
+    c "Лорем, кто ты? Репортер?"
 
 # game/chapter1.rpy:2043
 translate russiantl _call_syscheck_6_b27aa55e:
@@ -2076,7 +2076,7 @@ translate russiantl _call_syscheck_6_d047da4e:
 translate russiantl _call_syscheck_6_786007d9:
 
     # Sb disapproval b "Alright, you got what you wanted. Off you go, now."
-    Sb disapproval b "Ладно, Ты получил, что хотел. Теперь уходи."
+    Sb disapproval b "Ладно, ты получил, что хотел. Теперь уходи."
 
 # game/chapter1.rpy:2077
 translate russiantl _call_syscheck_6_9e99e262:
@@ -2446,7 +2446,7 @@ translate russiantl _call_syscheck_7_5bf94afa:
 translate russiantl _call_syscheck_7_821d6d0f:
 
     # n "\"Not on the field of battle do you meet me, human scum, but in the comforts of my own home do you seek to assassinate me? FEEL MY WRATH! MAY IT LEAD YOU TO A SLOW AND PAINFUL D-E-A-T-H!\" he screamed at the top of his lungs."
-    n "\"Не на поле битвы встретил Ты меня, человеческая мразь, но в комфорте моего собственного дома хочешь убить меня? ПОЧУВСТВУЙ МОЙ ГНЕВ! ПУСТЬ ЭТО ПРИВЕДЕТ ВАС К МЕДЛЕННОЙ И МУЧИТЕЛЬНОЙ С-М-Е-Р-Т-И\!" он кричал во все горло."
+    n "\"Не на поле битвы встретил ты меня, человеческая мразь, но в комфорте моего собственного дома хочешь убить меня? ПОЧУВСТВУЙ МОЙ ГНЕВ! ПУСТЬ ЭТО ПРИВЕДЕТ ВАС К МЕДЛЕННОЙ И МУЧИТЕЛЬНОЙ С-М-Е-Р-Т-И\!" он кричал во все горло."
 
 # game/chapter1.rpy:2370
 translate russiantl _call_syscheck_7_086c75fa:
@@ -3003,7 +3003,7 @@ translate russiantl continuation_4bbd5c06:
 translate russiantl continuation_3df38fec:
 
     # Rz "I was already wondering whether you'd get it at all."
-    Rz "Мне уже было интересно, получишь ли Ты его вообще."
+    Rz "Мне уже было интересно, получишь ли ты его вообще."
 
 # game/chapter1.rpy:2813
 translate russiantl continuation_3bf4c97d:
@@ -3045,7 +3045,7 @@ translate russiantl continuation_bb4bb404:
 translate russiantl continuation_49c2732d:
 
     # c "What's going on, Reza? Why did you call me here, at this time?"
-    c "Что происходит, Реза? Зачем Ты позвал меня сюда, в это время?"
+    c "Что происходит, Реза? Зачем ты позвал меня сюда, в это время?"
 
 # game/chapter1.rpy:2834
 translate russiantl continuation_edfb3488:
@@ -3087,7 +3087,7 @@ translate russiantl continuation_7d4645bd:
 translate russiantl continuation_cc4c03c2:
 
     # Rz "You do? Well, then you know what we've got to do, right?"
-    Rz "Ты? Ну, тогда Ты знаешь, что мы должны сделать, верно?"
+    Rz "Ты? Ну, тогда ты знаешь, что мы должны сделать, верно?"
 
 # game/chapter1.rpy:2844
 translate russiantl continuation_9f85b645:
@@ -3099,19 +3099,19 @@ translate russiantl continuation_9f85b645:
 translate russiantl continuation_e435c04f:
 
     # Rz "How did you find out? It took me quite a while, but maybe we can compare notes and make sure we're right."
-    Rz "Как Ты об этом узнал? Это заняло у меня много времени, возможно, мы сможем сравнить записи и убедиться, что мы правы."
+    Rz "Как ты об этом узнал? Это заняло у меня много времени, возможно, мы сможем сравнить записи и убедиться, что мы правы."
 
 # game/chapter1.rpy:2849
 translate russiantl continuation_f763377c:
 
     # Rz "I hoped you'd see it too, but then it took me a while to understand, and I had a head start on you. In any case..."
-    Rz "Я надеялся, что Ты тоже это поймешь, но потом мне потребовалось время, чтобы понять, и у меня было преимущество перед тобой. В любом случае..."
+    Rz "Я надеялся, что ты тоже это поймешь, но потом мне потребовалось время, чтобы понять, и у меня было преимущество перед тобой. В любом случае..."
 
 # game/chapter1.rpy:2852
 translate russiantl continuation_f763377c_1:
 
     # Rz "I hoped you'd see it too, but then it took me a while to understand, and I had a head start on you. In any case..."
-    Rz "Я надеялся, что Ты тоже это поймешь, но потом мне потребовалось время, чтобы понять, и у меня было преимущество перед тобой. В любом случае..."
+    Rz "Я надеялся, что ты тоже это поймешь, но потом мне потребовалось время, чтобы понять, и у меня было преимущество перед тобой. В любом случае..."
 
 # game/chapter1.rpy:2854
 translate russiantl continuation_fd1f97a7:
@@ -3147,7 +3147,7 @@ translate russiantl continuation_97d4eb26:
 translate russiantl continuation_c550c4fe:
 
     # Rz "You! How dare you follow me even here?" with vpunch
-    Rz "Ты! Как Ты смеешь меня преследовать?" with vpunch
+    Rz "Ты! Как ты смеешь меня преследовать?" with vpunch
 
 # game/chapter1.rpy:2863
 translate russiantl continuation_2ffb6474:
@@ -3159,7 +3159,7 @@ translate russiantl continuation_2ffb6474:
 translate russiantl continuation_27e61f40:
 
     # Mv "I knew you were up to no good. What were you talking about? What are you planning here, some kind of attack?"
-    Mv "Я знал, что Ты что-то замышляешь. О чем вы разговаривали? Что Ты здесь планируешь, какое-то нападение?"
+    Mv "Я знал, что ты что-то замышляешь. О чем вы разговаривали? Что ты здесь планируешь, какое-то нападение?"
 
 # game/chapter1.rpy:2874
 translate russiantl continuation_f23a06d3:
@@ -3177,13 +3177,13 @@ translate russiantl continuation_ccc18971:
 translate russiantl continuation_4d0a51fa:
 
     # c "Come on, I think you're overreacting, but we'll come with you if it'll help in any-{w=1.0}{nw}"
-    c "Слушай, я думаю, что Вы слишком остро реагируете, но мы пойдем с вами, если это поможет в любом-{w=1.0}{nw}"
+    c "Слушай, я думаю, что Вы слишком остро реагируете, но мы пойдем с Вами, если это поможет в любом-{w=1.0}{nw}"
 
 # game/chapter1.rpy:2897
 translate russiantl continuation_a8318d52:
 
     # c "Reza, what are you doing?"
-    c "Реза, что Ты делаешь?"
+    c "Реза, что ты делаешь?"
 
 # game/chapter1.rpy:2898
 translate russiantl continuation_f8069d10:
@@ -3225,7 +3225,7 @@ translate russiantl continuation_511c581f:
 translate russiantl continuation_a78188f5:
 
     # Mv "I'm still watching you, you know... and you better not move, for your own good. If I have to get up again and come after you in this condition, I can promise you I won't be nice."
-    Mv "Я все еще наблюдаю за тобой, Ты знаешь... и тебе лучше не двигаться, для твоего же блага. Если мне придется снова встать и пойти за тобой в таком состоянии, я могу пообещать тебе, что не буду вежлив."
+    Mv "Я все еще наблюдаю за тобой, ты знаешь... и тебе лучше не двигаться, для твоего же блага. Если мне придется снова встать и пойти за тобой в таком состоянии, я могу пообещать тебе, что не буду вежлив."
 
 # game/chapter1.rpy:2934
 translate russiantl continuation_8763d15f:
@@ -3285,7 +3285,7 @@ translate russiantl continuation_6e8a23aa:
 translate russiantl continuation_2394895a:
 
     # Br "[player_name], can you walk?"
-    Br "[player_name], Ты можешь идти?"
+    Br "[player_name], ты можешь идти?"
 
 # game/chapter1.rpy:2993
 translate russiantl continuation_5a44f847:
