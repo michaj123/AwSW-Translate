@@ -148,13 +148,13 @@ translate russiantl _call_syscheck_37_d456a7a0:
 translate russiantl _call_syscheck_37_8b86f8ee:
 
     # s "You rejected Bryce's invitation. Why is anyone's guess."
-    s ""
+    s "Вы отклонили приглашение Брайса. Почему? Остается только догадываться."
 
 # game/bryce1.rpy:147
 translate russiantl _call_syscheck_37_3f5a8d43:
 
     # Br "Alright, kiddo, that's enough. You better go now before you make me really mad."
-    Br ""
+    Br "Так, хватит. Лучше уходи сейчас, пока ты меня окончательно не разозлил."
 
 # game/bryce1.rpy:150
 translate russiantl _call_syscheck_37_806ce7c2:
@@ -162,43 +162,43 @@ translate russiantl _call_syscheck_37_806ce7c2:
     # nvl clear
     # n "I might not be the wisest person that ever lived, but if I knew one thing, it was that getting on a dragon's bad side was not a very good idea."
     nvl clear
-    n ""
+    n "Может, я и не самый мудрый человек всех времён и народов, но уж что я знаю наверняка, так это то, что злить огромного дракона - не самая лучшая идея."
 
 # game/bryce1.rpy:152
 translate russiantl _call_syscheck_37_ff7f9594:
 
     # n "According to his wishes, I left, wondering what went wrong between us."
-    n ""
+    n "По его желанию, я ушел. Интересно, что пошло не так?"
 
 # game/bryce1.rpy:153
 translate russiantl _call_syscheck_37_a0305aba:
 
     # n "I just wanted to help, and that was how he showed his gratitude?"
-    n ""
+    n "Я просто хотел помочь, и так он выразил свою благодарность?"
 
 # game/bryce1.rpy:154
 translate russiantl _call_syscheck_37_86fcf66b:
 
     # n "I could certainly live without Bryce from now on, then."
-    n ""
+    n "Что ж, я проживу и без Брайса."
 
 # game/bryce1.rpy:181
 translate russiantl _call_syscheck_37_dcc2b9e2:
 
     # Br "We'll see about that."
-    Br ""
+    Br "Поживём - увидим."
 
 # game/bryce1.rpy:194
 translate russiantl contbar_de01d55d:
 
     # Br "Alright, let's go."
-    Br ""
+    Br "Ладно, пойдём."
 
 # game/bryce1.rpy:206
 translate russiantl contbar_87c03454:
 
     # Br "Here we are."
-    Br ""
+    Br "Вот мы и пришли."
 
 # game/bryce1.rpy:226
 translate russiantl _call_skiptut_8_0ff5f677:
