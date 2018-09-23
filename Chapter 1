@@ -762,19 +762,19 @@ translate russiantl seccont_b34a115e:
 translate russiantl _call_skiptut_2_4d25d249:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the character selection?"
-    s "Мои заметки показывают, что вы уже испытали этот раздел удовлетворительно. Вы хотите перейти к выбору персонажа?"
+    s "Мои заметки показывают, что Вы уже испытали этот раздел удовлетворительно. Вы хотите перейти к выбору персонажа?"
 
 # game/chapter1.rpy:1196
 translate russiantl _call_skiptut_2_11989f6d:
 
     # s "It looks like you've seen this before. Skip to the character selection?"
-    s "Похоже, вы видели это раньше. Перейти к выбору персонажа?"
+    s "Похоже, Вы видели это раньше. Перейти к выбору персонажа?"
 
 # game/chapter1.rpy:1204
 translate russiantl _call_skiptut_2_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Оказывается, вы видели это раньше. Либо вы можете посмотреть это снова, либо мы можем сэкономить время и просто перейти к выбору персонажа."
+    s "Оказывается, Вы видели это раньше. Либо вы можете посмотреть это снова, либо мы можем сэкономить время и просто перейти к выбору персонажа."
 
 # game/chapter1.rpy:1218
 translate russiantl _call_skiptut_2_0054b77b:
