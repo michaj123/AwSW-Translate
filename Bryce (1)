@@ -204,7 +204,7 @@ translate russiantl contbar_87c03454:
 translate russiantl _call_skiptut_8_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Мои записи показывают, что Вы уже испытали эту сцену удовлетворительным образом. Хотите пропустить до конца?"
 
 # game/bryce1.rpy:234
 translate russiantl _call_skiptut_8_eee83226:
