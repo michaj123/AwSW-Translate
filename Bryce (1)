@@ -210,205 +210,205 @@ translate russiantl _call_skiptut_8_0ff5f677:
 translate russiantl _call_skiptut_8_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "Похоже, Вы уже видели эту сцену раньше. Пропустить её?"
 
 # game/bryce1.rpy:242
 translate russiantl _call_skiptut_8_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Так, похоже, что Вы уже это видели. Можно либо снова просмотреть эту сцену, либо сэкономить немного времени и промотать её до конца."
 
 # game/bryce1.rpy:257
 translate russiantl _call_skiptut_8_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/bryce1.rpy:277
 translate russiantl _call_skipcheck_8_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/bryce1.rpy:283
 translate russiantl _call_skipcheck_8_f459e481:
 
     # c "Not too shabby, I have to admit."
-    c ""
+    c "Ну, не такой уж и потрёпанный, стоит отметить."
 
 # game/bryce1.rpy:287
 translate russiantl _call_skipcheck_8_71808725:
 
     # Br "And just in time for happy hour."
-    Br ""
+    Br "И мы как раз успели на час второй бесплатной кружки."
 
 # game/bryce1.rpy:288
 translate russiantl _call_skipcheck_8_1e2e13a9:
 
     # c "Do you come here often?"
-    c ""
+    c "А ты часто сюда наведываешься?"
 
 # game/bryce1.rpy:292
 translate russiantl _call_skipcheck_8_6e8bd520:
 
     # Br "Sometimes."
-    Br ""
+    Br "Иногда."
 
 # game/bryce1.rpy:298
 translate russiantl _call_skipcheck_8_af6195fc:
 
     # Wr "Hey, you two. What can I bring you?"
-    Wr ""
+    Wr "Эй, вы двое. Что вам принести?"
 
 # game/bryce1.rpy:299
 translate russiantl _call_skipcheck_8_39d68eb9:
 
     # Br "Just the usual."
-    Br ""
+    Br "Мне как обычно."
 
 # game/bryce1.rpy:300
 translate russiantl _call_skipcheck_8_61113c8f:
 
     # Wr "One generic beer for the chief of police, sure thing. How about you, [player_name]?"
-    Wr ""
+    Wr "Одно разливное пиво шефу полиции, ясно. А что тебе, [player_name]?"
 
 # game/bryce1.rpy:313
 translate russiantl waitmenu_702e1676:
 
     # Wr "How couldn't I? Everyone knows about you. So, what will it be?"
-    Wr ""
+    Wr "Как можно не знать? Все уже про тебя слышали. Так чего тебе принести?"
 
 # game/bryce1.rpy:316
 translate russiantl waitmenu_4d721c0b:
 
     # Wr "Noted. I'll be right back."
-    Wr ""
+    Wr "Отлично. Сейчас всё будет."
 
 # game/bryce1.rpy:324
 translate russiantl waitmenu_bcc5b1e2:
 
     # m "It wasn't long before the waiter returned with a drinking bowl as wide as it was tall, filled to the brim with a foam-topped, dark amber liquid. Carefully, he set it down in front of Bryce, who didn't hesitate to take a big gulp."
-    m ""
+    m "Через пару минут официант вернулся с миской для напитков, глубокой и широкой, заполненной тёмно-янтарной жидкостью и пенкой. Он осторожно поставил её перед Брайсом, который тут же сделал большой глоток."
 
 # game/bryce1.rpy:326
 translate russiantl waitmenu_118c9439:
 
     # m "He brought one for me as well, provided in a glass that seemed more appropriate for my kind."
-    m ""
+    m "Он принёс пива и мне, в стакане, выглядящим более подобающим для людей."
 
 # game/bryce1.rpy:330
 translate russiantl waitmenu_1353b25f:
 
     # Wr "There you go. Just call me if you need anything."
-    Wr ""
+    Wr "Наслаждайтесь. Позовите, если понадобится что-нибудь ещё."
 
 # game/bryce1.rpy:331
 translate russiantl waitmenu_50600d31:
 
     # Br "Of course."
-    Br ""
+    Br "Конечно."
 
 # game/bryce1.rpy:340
 translate russiantl waitmenu_3ec2cfd9:
 
     # Br "So, what is it you wanted to tell me about Reza?"
-    Br ""
+    Br "Так что ты хотел рассказать мне о Резе?"
 
 # game/bryce1.rpy:341
 translate russiantl waitmenu_773d8ecc:
 
     # c "There are a few things... I mean, they're probably not much, but anything might help, right?"
-    c ""
+    c "Ну, несколько фактов... Может, они и не очень важны, но любая зацепка может помочь, да?"
 
 # game/bryce1.rpy:345
 translate russiantl waitmenu_4e3d5c77:
 
     # Br "That's right. Anything unusual about him, anything that defines his character or stands out about him could help us. How about you tell me what you know about him?"
-    Br ""
+    Br "Да. Всё, что может помочь нам понять его характер, всё необычное, отличающее его. Может, начнёшь с того, что расскажешь, что ты вообще о нём знаешь?"
 
 # game/bryce1.rpy:346
 translate russiantl waitmenu_80237363:
 
     # c "Well, the earliest memory I have of him was when we both went to the same school. We only shared a few classes, though, and a couple of friends."
-    c ""
+    c "Что ж, познакомился с ним я ещё в школе. Мы периодически пересекались с ним, и у нас было несколько общих друзей."
 
 # game/bryce1.rpy:348
 translate russiantl waitmenu_d0e93113:
 
     # c "Overall, I'd say he was an above-average student. We didn't talk very often, but he always was very outspoken and never failed to speak up to make his opinions known."
-    c ""
+    c "Могу добавить, что он был довольно прилежным учеником. Хоть мы и не разговаривали слишком часто, но он всегда был откровенным и мог донести свою точку зрения быстро и чётко."
 
 # game/bryce1.rpy:349
 translate russiantl waitmenu_528630b1:
 
     # c "He was the kind of person I'd fully expect to become a politician one day, or at least an activist of some sort. That's the impression I got from him. He spoke a lot, but you could also expect him to act on his word."
-    c ""
+    c "Честно, я думал, что он однажды станет политиком, или хотя бы каким-нибудь активистом. По крайней мере, он производил на меня такое впечатление. Он много говорил, но при этом всегда держал своё слово"
 
 # game/bryce1.rpy:350
 translate russiantl waitmenu_d6dfe5da:
 
     # c "Of course, his nature caused him to clash with others, sometimes even including the school staff, though his genuine enthusiasm also garnered praise from them. He was quite a character."
-    c ""
+    c "Конечно, его характер частенько вызывал споры и скандалы, иногда даже с учителями, однако его неподдельный энтузиазм заработал ему всеобщее уважение. В общем, тот ещё характер у него был."
 
 # game/bryce1.rpy:351
 translate russiantl waitmenu_162e9e6d:
 
     # c "After we all graduated, I didn't hear anything about him for a long time. Only some years later, after we found the portal, was I surprised to find out he was the human who would be sent to your world. He had volunteered."
-    c ""
+    c "После выпуска я довольно долго ничего о нём не слышал. Только через несколько лет, когда мы уже нашли портал, я с удивлением узнал, что он оказался тем, кто отправился в ваш мир. Он вызвался."
 
 # game/bryce1.rpy:352
 translate russiantl waitmenu_1a6531fd:
 
     # c "It wasn't until I was already here that I actually met him again, however brief our interactions were. But then I already told you everything about what happened prior to the eventual scuffle with Maverick."
-    c ""
+    c "Уже в вашем мире я и встретился с ним снова, хотя и не успел провести с ним достаточно времени. Ну а что случилось дальше, вплоть до столкновения с Мавериком, ты и сам знаешь."
 
 # game/bryce1.rpy:353
 translate russiantl waitmenu_e9b001dc:
 
     # c "There's only one thing that stands out to me about those events: In the restaurant, when he told me about the letter, he mentioned I would know how to read its secret message."
-    c ""
+    c "Только одно мне кажется необычным во всех этих событиях: в ресторане, когда он сказал мне про письмо, то он упомянул, что я точно смогу понять секретное послание."
 
 # game/bryce1.rpy:354
 translate russiantl waitmenu_496c14eb:
 
     # c "I know he values the use of his own intellect, but when I received the letter later, he apparently fully expected me to remember a random chemistry class we had together years ago in order to see the message."
-    c ""
+    c "Я знаю, что он очень гордится своими знаниями, но когда я получил это письмо, оказалось, что он ожидал, что я вспомню какой-то абсолютно ничем не примечательный урок химии, который прошёл много лет назад."
 
 # game/bryce1.rpy:358
 translate russiantl waitmenu_68d6d001:
 
     # Br "I see, so you did not arrange this beforehand?"
-    Br ""
+    Br "Я понял. Так получается, вы не планировали всё это заранее?"
 
 # game/bryce1.rpy:359
 translate russiantl waitmenu_fbab1a19:
 
     # c "Not at all. I had no idea."
-    c ""
+    c "Конечно нет. Я ничего даже не подозревал."
 
 # game/bryce1.rpy:360
 translate russiantl waitmenu_6377318a:
 
     # Br "That is quite peculiar."
-    Br ""
+    Br "Да, это довольно странно."
 
 # game/bryce1.rpy:361
 translate russiantl waitmenu_ced70947:
 
     # c "I know. I still wonder what he would have told me if Maverick hadn't interfered when we met at the portal."
-    c ""
+    c "А то. Мне до сих пор интересно, что бы он мне сказал, если бы Маверик не вмешался."
 
 # game/bryce1.rpy:365
 translate russiantl waitmenu_e0fda1f2:
 
     # Br "We do as well, and you can believe that."
-    Br ""
+    Br "Нам тоже интересно, можешь поверить."
 
 # game/bryce1.rpy:366
 translate russiantl waitmenu_96107e98:
 
     # c "How was Maverick even allowed to intercept his letter and read it?"
-    c ""
+    c "И почему Маверику вообще было разрешено читать нашу личную переписку?"
 
 # game/bryce1.rpy:367
 translate russiantl waitmenu_7cc8b85d:
