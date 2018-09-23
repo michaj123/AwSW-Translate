@@ -774,7 +774,7 @@ translate russiantl _call_skiptut_2_11989f6d:
 translate russiantl _call_skiptut_2_e25f7eb3:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the character selection."
-    s "Оказывается, Вы видели это раньше. Либо вы можете посмотреть это снова, либо мы можем сэкономить время и просто перейти к выбору персонажа."
+    s "Так, похоже, что Вы уже это видели. Либо Вы можете посмотреть это снова, либо мы можем сэкономить время и просто перейти к выбору персонажа."
 
 # game/chapter1.rpy:1218
 translate russiantl _call_skiptut_2_0054b77b:
