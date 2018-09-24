@@ -3477,7 +3477,7 @@ translate russiantl continuation_3e2508cf:
 translate russiantl continuation_7e4b50e4:
 
     # Br "If he wasn't on mandatory sick leave, he would be suspended right now. We'll have to wait until this whole thing is over before we decide what to do with him. I can assure you this won't be taken lightly."
-    Br ""
+    Br "Если бы он не был на больничном, я бы отстранил его прямо сейчас. Подождём, пока всё это закончиться, а потом решим, что с ним делать. Поверь мне, я этого просто так не оставлю."
 
 # game/chapter1.rpy:3075
 translate russiantl continuation_c4f759c6:
@@ -3489,55 +3489,55 @@ translate russiantl continuation_c4f759c6:
 translate russiantl continuation_dd21be7f:
 
     # c "We still got quite a lot on our hands now, though. We have a wounded dragon and a missing human. This could lead to a diplomatic crisis."
-    c ""
+    c "Однако, у нас ещё много дел. Раненный дракон и пропавший человек. Из-за этого может случится дипломатический кризис."
 
 # game/chapter1.rpy:3081
 translate russiantl continuation_0195f9bc_1:
 
     # Br "Is that so?"
-    Br ""
+    Br "Так ли это?"
 
 # game/chapter1.rpy:3082
 translate russiantl continuation_dd21be7f_1:
 
     # c "We still got quite a lot on our hands now, though. We have a wounded dragon and a missing human. This could lead to a diplomatic crisis."
-    c ""
+    c "Однако, у нас ещё много дел. Раненный дракон и пропавший человек. Из-за этого может случится дипломатический кризис."
 
 # game/chapter1.rpy:3087
 translate russiantl continuation_948ed879:
 
     # Br "I personally guarantee it."
-    Br ""
+    Br "Я лично это гарантирую."
 
 # game/chapter1.rpy:3088
 translate russiantl continuation_dd21be7f_2:
 
     # c "We still got quite a lot on our hands now, though. We have a wounded dragon and a missing human. This could lead to a diplomatic crisis."
-    c ""
+    c "Однако, у нас ещё много дел. Раненный дракон и пропавший человек. Из-за этого может случится дипломатический кризис."
 
 # game/chapter1.rpy:3090
 translate russiantl continuation_e3c5319a:
 
     # Br "Maybe Reza will still show up soon and we can get all of this behind us."
-    Br ""
+    Br "Возможно Реза вскоре покажется и мы сможем [НЕ ЗАКОНЧЕНО]"
 
 # game/chapter1.rpy:3091
 translate russiantl continuation_63eccaf9:
 
     # c "I hope so too. I really wouldn't want to jeopardize everything over this unfortunate incident."
-    c ""
+    c "Я тоже на это надеюсь. Не хотелось бы всё испортить этим неудачным инцидентом."
 
 # game/chapter1.rpy:3092
 translate russiantl continuation_3e4ea0a9:
 
     # Br "Yeah, how about we both just keep quiet about this whole thing for now? After all, I don't think any of us wants our people panicking about this already, right?"
-    Br ""
+    Br "Ага, как насчёт того, чтобы мы оба никому ничего не говорили об этом сейчас? В конце концов, я не думаю, что кто-то из нас хотел бы, чтобы народ запаниковал, так?"
 
 # game/chapter1.rpy:3093
 translate russiantl continuation_ff9f623a:
 
     # m "I merely nodded in agreement."
-    m ""
+    m "Я лишь кивнул в знак согласия."
 
 # game/chapter1.rpy:3100
 translate russiantl continuation_76b2fe88:
@@ -3549,7 +3549,7 @@ translate russiantl continuation_76b2fe88:
 translate russiantl continuation_ae7588ea:
 
     # n "Eventually, we arrived at the police station, where the chief took my formal statement in regards to yesterday's events."
-    n ""
+    n "В конце концов мы пришли в полицейский департамент, где шеф взял моё официальное заявление относительно вчерашних событий."
 
 # game/chapter1.rpy:3104
 translate russiantl continuation_a3c25806:
