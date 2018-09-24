@@ -16,7 +16,7 @@ translate russiantl badending_04624187:
 translate russiantl badending_098145bc:
 
     # n "In the full story of {i}Angels with Scaly Wings{/i}, this would have a number of consequences."
-    n "В полной истории об {i}Angels with Scaly Wings{/i} это имело бы ряд последствий."
+    n "В полной истории об {i}Angels with Scaly Wings{/i}, это будет иметь ряд последствий."
 
 # game/endings.rpy:9
 translate russiantl badending_a4be4be6:
