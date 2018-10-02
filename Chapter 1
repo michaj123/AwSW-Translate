@@ -46,7 +46,7 @@ translate russiantl detected_bc6e30f8:
 translate russiantl detected_84b78b40:
 
     # c "(Does this look right?)" nointeract
-    c "(Это выглядит правильно?)" nointeract
+    c "(134)" nointeract
 
 # game/chapter1.rpy:378
 translate russiantl detected_263f7f4c:
